@@ -1,0 +1,46 @@
+#Magyar
+- eltúlzott érzések
+## Műfajai
+- ### Tragédia 
+	- #### Eredete
+		- Dionüszosz történetek
+		- Egy pap Dionüszosz + kecskebőrbe bújt kar
+		- A drámajáték eredetileg zenei műfej volt(szólista  kórus)
+		- 'kecske-ének'(tragosz-odé)
+	- #### A Tragikus Triász
+		- 3 nagy tragédiaíró - BCE 6-5. század
+		- __Aiszkhülosz
+			- egyszerre két színész felléptet
+			- párbeszéd
+			- mindenféle mitológiai sztori
+			- istentisztelet
+			- _Leláncolt Prométheusz
+		- __Szophoklész
+			- 3 színész
+			- hús-vér emberek
+			- független a vallásosságtól
+			- legsikeresebb a drámaversenyeken(24 wins)
+		- __Euripidész
+			- Tetszőleges számú színészt
+			- vallás és mitológia csak díszlet
+			- _Iphigenia Auliszban
+		- minden nap egy tragédia -> tragikus trilógia
+		- + vidámabb hangvételű szatírjáték ->drámai tetralógia
+	- #### fennmaradt
+		- Az egyetlen fennmaradt Trilógia az Aiszkhülosz, az Oreszteia
+		- Összefügg, de nem ez volt követelmény
+		- Klütaimnesztra + szeretője megöli Agamemnónt
+		- A. gyerekei bosszút állnak (oresztész és Elektra)
+		- Anyagyilkosság
+		- A szereplők hisznek az igazságban, a cselekmény vége mégis értékvesztés: halál tönkremenetel, pusztulás
+- ## Szatírjáték
+		- Eredetileg Dionüszoszt és kísértetét, a szatírokat ábrázolta
+		- **Szatírok:** Dionüszosz isten kéjsóvár kísérői, akik szerelmi vágytól hajtva a nőket zaklatják
+		- Nevettetés, komikum
+		- Táncok formájában adták elő, egy narrátor kommentálta
+		- A jeleneteket karének választotta el egymástól
+		- Euridpidész: Küklopsz (Polüphémosz-kaland)
+- ## Komédia
+		- A komédiában általában hamis értékek lepleződnek le
+		- Kisszerű, átlagos emberek válnak nevetségessé
+		- Arisztophanész: Felhők

@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Német  ",
+      "color": {
+        "a": 1,
+        "rgb": 16762880
+      }
+    },
+    {
+      "query": "path:Magyar",
+      "color": {
+        "a": 1,
+        "rgb": 6633227
+      }
+    },
+    {
+      "query": "path:School related stuff",
+      "color": {
+        "a": 1,
+        "rgb": 16715755
+      }
+    },
+    {
+      "query": "path:Angol  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.45260416666667,
+  "lineSizeMultiplier": 0.967708333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.505208333333333,
+  "repelStrength": 9.79166666666667,
+  "linkStrength": 1,
+  "linkDistance": 270,
+  "scale": 0.7481827930130481,
+  "close": false
+}

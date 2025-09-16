@@ -1,0 +1,2 @@
+#Német
+[[Akkusativ, Nominativ]]

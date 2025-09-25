@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Német  ",
@@ -63,10 +63,10 @@
   "nodeSizeMultiplier": 1.45260416666667,
   "lineSizeMultiplier": 0.967708333333333,
   "collapse-forces": false,
-  "centerStrength": 0.505208333333333,
-  "repelStrength": 9.79166666666667,
-  "linkStrength": 1,
-  "linkDistance": 270,
-  "scale": 0.7481827930130481,
+  "centerStrength": 0.421875,
+  "repelStrength": 9.27083333333333,
+  "linkStrength": 0.244791666666667,
+  "linkDistance": 353,
+  "scale": 0.6945832698406209,
   "close": false
 }

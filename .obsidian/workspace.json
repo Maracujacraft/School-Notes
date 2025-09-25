@@ -48,9 +48,51 @@
               "icon": "lucide-file",
               "title": "(4) Zrínyi Miklós Portréja"
             }
+          },
+          {
+            "id": "02f45c16c88afb86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10f/Nyelvtan/(3) Az alany és a tárgy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(3) Az alany és a tárgy"
+            }
+          },
+          {
+            "id": "ff6dcdebe14e68b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10f/Tartalomjegyzék - 10F.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tartalomjegyzék - 10F"
+            }
+          },
+          {
+            "id": "839ac40bd5f586a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10f/Nyelvtan/(3) Az alany és a tárgy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(3) Az alany és a tárgy"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -199,20 +241,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "00be4e4fc06dc918",
+  "active": "839ac40bd5f586a9",
   "lastOpenFiles": [
+    "10f/Nyelvtan/(3) Az alany és a tárgy.md",
+    "10f/Tartalomjegyzék - 10F.md",
+    "10f/Irodalom/(3) A_Barokk_Magyarországon.md",
+    "10f/Történelem/Középkor/A Középkori Egyház.md",
+    "Földrajz.md",
+    "Untitled.md",
+    "(2/) 1.md",
+    "10f/Nyelvtan/(2) Az állítmány.md",
+    "10f/Irodalom/(4) Zrínyi Miklós Portréja.md",
     "10f/földrajz/Népesség és telpülés földrajz/(3) Népesség-összetétel 2025.09.23.md",
     "10f/földrajz/Népesség és telpülés földrajz/(2) zGraph.excalidraw.md",
-    "10f/Irodalom/(4) Zrínyi Miklós Portréja.md",
-    "10f/Nyelvtan/(2) Az állítmány.md",
-    "10f/Irodalom/(3) A_Barokk_Magyarországon.md",
     "Névtelen 2.base",
     "zGraph.md",
     "10f/assets/foldrajz_korfa.png",
     "10f/assets",
     "10f/földrajz/Népesség és telpülés földrajz/(2) Népességi átmenet szakaszai 25.09.16.md",
     "10f/földrajz/Népesség.md",
-    "(2/) 1.md",
     "(2/).md",
     "(2",
     "zGraph.excalidraw.md",
@@ -223,7 +270,6 @@
     "Nyelvtan.md",
     "10f/Nyelvtan",
     "10f/Irodalom/(2) Barokk.md",
-    "10f/Történelem/Középkor/A Középkori Egyház.md",
     "10f/Történelem/Középkor/Untitled.md",
     "10f/Történelem/Középkor",
     "10f/Történelem",
@@ -235,10 +281,6 @@
     "f.md",
     "f",
     "nyf/Untitled.md",
-    "nyf/Német/Tőhangváltás - gyakorlás.md",
-    "nyf/Német/Német.md",
-    "nyf/Német/Akkusativ, Nominativ.md",
-    "nyf/Magyar/Magyar.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Német/Untitled.canvas"

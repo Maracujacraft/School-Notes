@@ -1,0 +1,13 @@
+- Mondatelemzés első eleme
+- Elemző kérdést általa tesszük fel
+- **Mit állítok?**
+- Mindig tartalmaz igei rész - ige, <u style="text-decoration: underline double;"><b>segédige</b></u> -> Peti <u>okos <b><u style="text-decoration: underline double;">volt</u></b></u>
+- Típusai:
+	- <u style="text-decoration: underline double;">Igei</u> állítmány - pl.: A ló <u style="text-decoration: underline double;">táncol</u >
+	- <u style="text-decoration: underline double;">Névszói-igei</u> állítmány - pl.: A ló <u style="text-decoration: underline double;">szép</u>
+
+- Felismerés
+	- A mai piacon a szőlő a <u style="text-decoration: underline double;">sláger</u>.
+	- Hát ilyen <u style="text-decoration: underline double;">kellene</u> neked?
+	- Igazán <u style="text-decoration: underline double;">kedvesek vagytok</u> hozzám.
+	- Nem <u style="text-decoration: underline double;">vagyunk bogarasok</u>, kisasszony, csak <u style="text-decoration: underline double;">önfejűek</u>.

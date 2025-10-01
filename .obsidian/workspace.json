@@ -106,6 +106,48 @@
             }
           },
           {
+            "id": "dc0e695ba9706f8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10f/Irodalom/(6) A rokokó(, az irodalmi levél).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(6) A rokokó(, az irodalmi levél)"
+            }
+          },
+          {
+            "id": "b417cd094c9fac91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10f/Történelem/Középkor/Előzőhöz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Előzőhöz"
+            }
+          },
+          {
+            "id": "0420e89f9e63eeb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10f/Történelem/Középkor/Előzőhöz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Előzőhöz"
+            }
+          },
+          {
             "id": "30650ad9655a9c48",
             "type": "leaf",
             "state": {
@@ -116,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -237,16 +279,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Népesség és telpülés földrajz/2025.09.09.md",
+                "file": "10f/Történelem/Középkor/Előzőhöz.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025.09.09"
+              "title": "Outline of Előzőhöz"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -262,20 +305,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7db14c7f98bce8ec",
+  "active": "0420e89f9e63eeb8",
   "lastOpenFiles": [
-    "10f/Irodalom/(5) Zrínyi Miklós_Szigeti Veszedelem.md",
-    "10f/földrajz/Népesség és telpülés földrajz/(4) Emberfajták.md",
-    "10f/Irodalom/(4) Zrínyi Miklós Portréja.md",
-    "10f/Történelem/Középkor/A Középkori Egyház.md",
+    "10f/Történelem/Középkor/Előzőhöz.excalidraw.md",
+    "10f/Történelem/Középkor/Előzőhöz.md",
+    "[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[Előzőhöz.md",
     "10f/Nyelvtan/(3) Az alany és a tárgy.md",
+    "10f/Történelem/Középkor/A Középkori Egyház.md",
+    "10f/Történelem/Középkor/Untitled.canvas",
+    "Untitled.md",
+    "10f/Irodalom/(6) A rokokó(, az irodalmi levél).md",
     "10f/Tartalomjegyzék - 10F.md",
+    "10f/földrajz/Népesség és telpülés földrajz/(4) Emberfajták.md",
+    "10f/Irodalom/(5)-(6) Zrínyi Miklós_Szigeti Veszedelem.md",
+    "10f/Irodalom/(4) Zrínyi Miklós Portréja.md",
     "10f/Irodalom/(3) A_Barokk_Magyarországon.md",
     "Földrajz.md",
-    "Untitled.md",
     "(2/) 1.md",
     "10f/Nyelvtan/(2) Az állítmány.md",
     "10f/földrajz/Népesség és telpülés földrajz/(3) Népesség-összetétel 2025.09.23.md",
@@ -296,16 +345,11 @@
     "Nyelvtan.md",
     "10f/Nyelvtan",
     "10f/Irodalom/(2) Barokk.md",
-    "10f/Történelem/Középkor/Untitled.md",
     "10f/Történelem/Középkor",
     "10f/Történelem",
     "Névtelen.base",
     "Névtelen 1.base",
-    "nyf/Magyar/A görög drámairodalom.md",
-    "10f/Irodalom/(1) Év eleji ismétlés.md",
-    "10f/földrajz/Népesség és telpülés földrajz/(1) 2025.09.09.md",
     "f",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Német/Untitled.canvas"
   ]

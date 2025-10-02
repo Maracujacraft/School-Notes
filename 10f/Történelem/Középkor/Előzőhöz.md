@@ -1,0 +1,27 @@
+- A földesúr földet adott a jobbágyoknak: jobbágytelek
+- A jobbágy <u>nem</u> tulajdonosa, csak használója a földnek
+	- cseréb kötelezettségekkel tartozik a földesúrnak
+	- földesúr joghatósága alatt állt
+- Adót fizetett az egyháznak és a királynak is
+- A jobbágy jogai:
+	- magántulajdon, öröklés joga
+	- A jobbágytelekről nem űzhető el
+- **Önellátó gazdaság**: A jobbágyok állították elő a mezőgazdasági és kézműves termékeket is
+- Nagybirtok rendszer fejlődik: *uradalom*
+	- Saját kezelésű földek: *majorság (allódium)*
+		- Robotolás
+	- Jobbágytelek
+		- Külső telek: 3 nyomás => Nyomáskényszer
+		- Belső telek
+	- Közös használati területek
+		- Erdő. legelő, patak, folyó, halastó 
+- **eszközök**:
+	- Nehézeke
+	- Borona
+	- Nyakhám, Szügyhám
+	- Patkó
+	- Vízi-, szélmalmok
+- felesleg megjelenése: árutermelés
+- Megélénkül a kereskedelem => városok kialakulása
+- Növekszik a népesség: földhiány
+	- **Hospesek** => Más faluba elvándorló földművesek, ha elfogynak a földek

@@ -8,183 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "077b1ed02463ce8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10f/Irodalom/(1) Év eleji ismétlés.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(1) Év eleji ismétlés"
-            }
-          },
-          {
-            "id": "0dafe03b030273bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10f/földrajz/Népesség és telpülés földrajz/(2) Népességi átmenet szakaszai 25.09.16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(2) Népességi átmenet szakaszai 25.09.16"
-            }
-          },
-          {
-            "id": "00be4e4fc06dc918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10f/Irodalom/(4) Zrínyi Miklós Portréja.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(4) Zrínyi Miklós Portréja"
-            }
-          },
-          {
-            "id": "02f45c16c88afb86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10f/Nyelvtan/(3) Az alany és a tárgy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(3) Az alany és a tárgy"
-            }
-          },
-          {
-            "id": "ff6dcdebe14e68b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10f/Tartalomjegyzék - 10F.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tartalomjegyzék - 10F"
-            }
-          },
-          {
-            "id": "839ac40bd5f586a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10f/Irodalom/(4) Zrínyi Miklós Portréja.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(4) Zrínyi Miklós Portréja"
-            }
-          },
-          {
-            "id": "7db14c7f98bce8ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10f/földrajz/Népesség és telpülés földrajz/(4) Emberfajták.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(4) Emberfajták"
-            }
-          },
-          {
-            "id": "dc0e695ba9706f8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10f/Irodalom/(6) A rokokó(, az irodalmi levél).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(6) A rokokó(, az irodalmi levél)"
-            }
-          },
-          {
-            "id": "b417cd094c9fac91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10f/Történelem/Középkor/Előzőhöz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Előzőhöz"
-            }
-          },
-          {
-            "id": "0420e89f9e63eeb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10f/Történelem/Középkor/Előzőhöz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Előzőhöz"
-            }
-          },
-          {
-            "id": "b94f59fa7dd88536",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
-          },
-          {
             "id": "2c3c182b05fc1a0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10f/Irodalom/(7) A kuruc kor irodalma.md",
+                "file": "10f/földrajz/Népesség és telpülés földrajz/(5) Vallásösszetétel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(7) A kuruc kor irodalma"
-            }
-          },
-          {
-            "id": "30650ad9655a9c48",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "(5) Vallásösszetétel"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -336,21 +173,24 @@
   },
   "active": "2c3c182b05fc1a0d",
   "lastOpenFiles": [
-    "10f/Irodalom/_Irodalom_Szöveggyűjteméy.pdf",
-    "10f/Irodalom/(7) A kuruc kor irodalma.md",
-    "10f/Tartalomjegyzék - 10F.md",
-    "10f/Történelem/Középkor/2025.10.06-Házi.md",
+    "10f/földrajz/Népesség és telpülés földrajz/(4) Emberfajták.md",
+    "10f/földrajz/Népesség és telpülés földrajz/(5) Vallásösszetétel.md",
     "10f/Történelem/Középkor/Előzőhöz.md",
+    "10f/Irodalom/(6) A rokokó(, az irodalmi levél).md",
+    "10f/Irodalom/(4) Zrínyi Miklós Portréja.md",
+    "10f/Tartalomjegyzék - 10F.md",
+    "10f/Nyelvtan/(3) Az alany és a tárgy.md",
+    "10f/földrajz/Népesség és telpülés földrajz/(2) Népességi átmenet szakaszai 25.09.16.md",
+    "10f/Irodalom/(1) Év eleji ismétlés.md",
+    "10f/Irodalom/(7) A kuruc kor irodalma.md",
+    "10f/Irodalom/_Irodalom_Szöveggyűjteméy.pdf",
+    "10f/Történelem/Középkor/2025.10.06-Házi.md",
     "10f/Történelem/Középkor/A Középkori Egyház.md",
     "10f/Nyelvtan/(4) Határozó és Jelző.md",
     "10f/Történelem/Középkor/Előzőhöz.excalidraw.md",
     "[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[Előzőhöz.md",
-    "10f/Nyelvtan/(3) Az alany és a tárgy.md",
     "10f/Történelem/Középkor/Untitled.canvas",
-    "10f/Irodalom/(6) A rokokó(, az irodalmi levél).md",
-    "10f/földrajz/Népesség és telpülés földrajz/(4) Emberfajták.md",
     "10f/Irodalom/(5)-(6) Zrínyi Miklós_Szigeti Veszedelem.md",
-    "10f/Irodalom/(4) Zrínyi Miklós Portréja.md",
     "10f/Irodalom/(3) A_Barokk_Magyarországon.md",
     "Földrajz.md",
     "(2/) 1.md",
@@ -361,12 +201,10 @@
     "zGraph.md",
     "10f/assets/foldrajz_korfa.png",
     "10f/assets",
-    "10f/földrajz/Népesség és telpülés földrajz/(2) Népességi átmenet szakaszai 25.09.16.md",
     "10f/földrajz/Népesség.md",
     "(2/).md",
     "(2",
     "zGraph.excalidraw.md",
-    "nyf/Angol/Conditional.md",
     "10f/földrajz/Népesség és telpülés földrajz/(2) Népességi átmenet szakaszai 25.09.16",
     "ensz200116ketto-344671 1.png",
     "10f/Nyelvtan",

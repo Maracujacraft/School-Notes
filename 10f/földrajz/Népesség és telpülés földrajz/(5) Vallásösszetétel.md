@@ -1,0 +1,59 @@
+- Életmódra, kultúrára nagy hatással
+## Világvallások
+- legtöbb hívőt tömörítő vallás
+- fajtái
+    1. **monoteista**
+        - **keresztény**
+            - legelterjedtebb
+            - egyházszakadás
+                - nyugati (római katolikus)
+                    - római katolikus
+                    - protestáns
+                - keleti (ortodox)
+        - **Iszlám**
+	        - *Muszlim, muzulmán, mohamedán*
+            - isten: Allah
+            - főkönyv: Korán
+            - fő prófétája: Mohamed → "Mohamedám"
+			- Ágai:
+				- Síita
+				- Szunmita
+			- **Elterjedése**:
+				- Közel-kelet
+				- Észak-Afrika
+				- Irán
+				- Belső-Ázsia
+				- Indonézia
+        - **zsidó vallás**
+	        - keresztény vallás gyökere
+	        - Központban: szeretet
+	        - Zsidó néphez köttődik
+		        - Közel-kelet
+		        - Izrael
+	2. **Politeista**
+		- Ókori vallások
+		- **Hinduizmus**
+			- India elsődleges vallása
+			- 3 fő isten
+				- Brahma: *Teremtő*
+				- Visnu: *Megtartó*
+				- Síva: *pusztító*
+	3. Nem Istent követő/Tanítást követő vallások
+		- Tankövető, nem isten
+		- **Buddhizmus**
+			- Buddha: Gautama Sziddhártha (सिद्धार्थ गौतम)
+			- Újjászületséből való kilépés: Nirvana
+			- Délkelet-Ázsia
+		- **Univerzista**:
+			- Taoizmus+Buddhizmus+Konfucianizmus
+		- **Sintóizmus**
+			- Japán
+#### Foglalkoztatottság szerinti megosztás
+- Munkanélküliek, aktívak, inaktív keresők, munkaképes korúak, eltartottak, aktív keresők, inaktívak
+- Munkaképes korúak
+	- Aktívak
+		- Aktív keresők -- foglalkoztatottak
+		- Munkanélküliek
+	- Inaktívak
+		- Inaktív keresők -- Passzív jövedelem
+		- Eltartottak -- 

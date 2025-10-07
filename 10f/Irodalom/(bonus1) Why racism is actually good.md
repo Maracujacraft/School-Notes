@@ -1,0 +1,1 @@
+Racism can be considered good, if we look at the positive side on things. For example many many years ago, black "people" helped us gain resources like cotton. Which really improved the economy, because they were basically unpaid internship. Thus being free workforce. so 

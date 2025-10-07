@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "50f91f0167615e7a",
+        "id": "95d69a5f029c6e5f",
         "type": "tabs",
         "children": [
           {
-            "id": "2c3c182b05fc1a0d",
+            "id": "0f7354f911c38b69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10f/földrajz/Népesség és telpülés földrajz/(5) Vallásösszetétel.md",
+                "file": "10f/Irodalom/(8) Összefoglalás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(5) Vallásösszetétel"
+              "title": "(8) Összefoglalás"
+            }
+          },
+          {
+            "id": "ccf036530527f12f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10f/Történelem/Középkor/doga segédlet - középkori egyház.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "doga segédlet - középkori egyház"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10f/Történelem/Középkor/Előzőhöz.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Előzőhöz"
+              "title": "Outline"
             }
           }
         ],
@@ -171,19 +185,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2c3c182b05fc1a0d",
+  "active": "e5d05763bc6199ee",
   "lastOpenFiles": [
-    "10f/földrajz/Népesség és telpülés földrajz/(4) Emberfajták.md",
+    "10f/Irodalom/_Irodalom_Szöveggyűjteméy.pdf",
+    "10f/Történelem/Középkor/doga segédlet - középkori egyház.md",
+    "10f/Irodalom/(8) Összefoglalás.excalidraw.md",
+    "10f/Irodalom/(bonus1) Why racism is actually good.md",
+    "10f/Irodalom/(8) Összefoglalás.md",
+    "10f/Irodalom/(1) Év eleji ismétlés.md",
     "10f/földrajz/Népesség és telpülés földrajz/(5) Vallásösszetétel.md",
+    "10f/földrajz/Népesség és telpülés földrajz/(4) Emberfajták.md",
     "10f/Történelem/Középkor/Előzőhöz.md",
     "10f/Irodalom/(6) A rokokó(, az irodalmi levél).md",
     "10f/Irodalom/(4) Zrínyi Miklós Portréja.md",
     "10f/Tartalomjegyzék - 10F.md",
     "10f/Nyelvtan/(3) Az alany és a tárgy.md",
     "10f/földrajz/Népesség és telpülés földrajz/(2) Népességi átmenet szakaszai 25.09.16.md",
-    "10f/Irodalom/(1) Év eleji ismétlés.md",
     "10f/Irodalom/(7) A kuruc kor irodalma.md",
-    "10f/Irodalom/_Irodalom_Szöveggyűjteméy.pdf",
     "10f/Történelem/Középkor/2025.10.06-Házi.md",
     "10f/Történelem/Középkor/A Középkori Egyház.md",
     "10f/Nyelvtan/(4) Határozó és Jelző.md",
@@ -196,15 +214,10 @@
     "(2/) 1.md",
     "10f/Nyelvtan/(2) Az állítmány.md",
     "10f/földrajz/Népesség és telpülés földrajz/(3) Népesség-összetétel 2025.09.23.md",
-    "10f/földrajz/Népesség és telpülés földrajz/(2) zGraph.excalidraw.md",
     "Névtelen 2.base",
-    "zGraph.md",
     "10f/assets/foldrajz_korfa.png",
     "10f/assets",
-    "10f/földrajz/Népesség.md",
-    "(2/).md",
     "(2",
-    "zGraph.excalidraw.md",
     "10f/földrajz/Népesség és telpülés földrajz/(2) Népességi átmenet szakaszai 25.09.16",
     "ensz200116ketto-344671 1.png",
     "10f/Nyelvtan",

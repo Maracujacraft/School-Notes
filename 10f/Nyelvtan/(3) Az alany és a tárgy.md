@@ -1,3 +1,4 @@
+# **Az alany és a tárgy**
 ### <u>Az Alany</u>
 - Az alany az alaptagban kifejezett cselekvés cselekvőjét nevezi meg
 - Pl. <u>Peti</u> <span style="border-bottom:1px dashed #999;">fogat</span> <u style="text-decoration: underline double;">mos</u>.

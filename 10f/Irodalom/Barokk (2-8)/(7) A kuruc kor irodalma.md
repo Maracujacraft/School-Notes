@@ -1,0 +1,23 @@
+# **Kuruc kor irodalma (7)**
+### Vitézi költészet
+- **Témái**:
+	- kuruc <-> labanc ellentét
+	- törökellenesség
+	- Habsburg-ellenesség
+- **Műfajok**:
+	- Katonadalok
+	- Táncdalok
+	- Toborzódalok (kéziratos daloskönyvek)
+	- Kesergők
+	- Panaszénekek
+	- Bujdosóénekek
+	- Jeremiádok
+### Táncdalok
+- **Rákóczi-nóta**:
+	- 18. század első harmada
+	- téma: *bukás, vereség -> kollektív siralom, gyászdal*
+	- Idő: *és értékszembesítés -> Habsburg-uralom - Rákóczi-szabadságharc*
+	- Utolsó vsz. imádság
+- **Őszi harmat után**:
+	- Bujdosóének - *búcsúzás*
+	- Évszaktoposz - *Ősz, tél -> búcsú, lemondás, elmúlás*

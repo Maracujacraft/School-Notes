@@ -5,11 +5,13 @@
 - [[(4) Emberfajták]]
 ### Irodalom
 - [[(1) Év eleji ismétlés]]
-- [[(2) Barokk]]
-- [[(3) A_Barokk_Magyarországon]]
-- [[(4) Zrínyi Miklós Portréja]]
-- [[(5)-(6) Zrínyi Miklós_Szigeti Veszedelem]]
-- [[(6) A rokokó(, az irodalmi levél)]]
+- **Barokk**
+	- [[(2) Barokk|A barokk]]
+	- [[(3) A_Barokk_Magyarországon|A barokk Magyarországon]]
+	- [[(4) Zrínyi Miklós Portréja|Zrínyi Miklós portréja]]
+	- [[(5)-(6) Zrínyi Miklós_Szigeti Veszedelem|Zrínyi Miklós: Szigeti Veszedelem]]
+	- [[(6) A rokokó(, az irodalmi levél)|A rokokó, és az irodalmi levél]]
+	- [[(7) A kuruc kor irodalma|A kuruc kor irodalma]]
 ### Nyelvtan
 - [[(2) Az állítmány]]
 - [[(3) Az alany és a tárgy]]

@@ -1,0 +1,53 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "VoG4hkyXiSh05C1Tc3Rvi",
+      "name": "assets",
+      "value": "#ff0000"
+    },
+    {
+      "id": "Sg_Jc9oyL1c0iALbuOaAV",
+      "name": "Irodalom",
+      "value": "#ffff00"
+    },
+    {
+      "id": "owiemXlaBoAW5wC3kLyaC",
+      "name": "Földrajz",
+      "value": "#009dff"
+    },
+    {
+      "id": "vvN9odsA-_nTYlZN7eu3u",
+      "name": "Nyelvtan",
+      "value": "#ff7d00"
+    },
+    {
+      "id": "UcsX7Yi2FFq9AMgJtAuId",
+      "name": "Történelem",
+      "value": "#8a5000"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "10f/Irodalom",
+      "color": "Sg_Jc9oyL1c0iALbuOaAV"
+    },
+    {
+      "path": "10f/Földrajz",
+      "color": "owiemXlaBoAW5wC3kLyaC"
+    },
+    {
+      "path": "10f/Nyelvtan",
+      "color": "vvN9odsA-_nTYlZN7eu3u"
+    },
+    {
+      "path": "10f/Történelem",
+      "color": "UcsX7Yi2FFq9AMgJtAuId"
+    },
+    {
+      "path": "10f/assets",
+      "color": "VoG4hkyXiSh05C1Tc3Rvi"
+    }
+  ]
+}

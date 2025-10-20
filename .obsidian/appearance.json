@@ -1,5 +1,7 @@
 {
   "accentColor": "",
-  "baseFontSize": 19,
-  "baseFontSizeAction": true
+  "baseFontSize": 30,
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "showViewHeader": true
 }

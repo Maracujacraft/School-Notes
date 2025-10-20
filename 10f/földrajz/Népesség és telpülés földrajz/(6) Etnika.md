@@ -1,0 +1,48 @@
+# *Etnika (6)*
+- **Munkanélküliségi ráta**: munkanélküliek/munkaképesek \* 100
+- **Foglalkoztatási ráta**: $$\frac{\text{Foglalkoztatottak száma}}{\text{Gazdaságilag aktív népesség}} \times 100 $$
+### Fogalmak
+- **foglalkoztatási szerkezet**: aktív népesség megoszlását mutatja a gazdasági szektorok mögött
+- **állam**: Politikai fogalom, olyan határokkal kijelölt terölet, melyet intézményei segítségével egy adott politikai rendszer irányít
+- **nemzet**: Emberek tartós, a történelem folyamán kialakult csoportja, melyeket összetart a nyelv, kultúra, hagyományok és történelem
+- **nemzeti kisebbség**: Egy adott állam területén élő, de nem a nemzeti többséghez tartozó csoport (erdélyi kisebbség, román, stb...)
+- **etnikai kisebbség**: Egy kisebbség melynek nincs anyaállamuk
+- **nemzeti identitás**: annak a tudatos megélése, hogy mely nemzethez tartozunk
+- **Hivatalos nyelv**: Az állam hivatalos működésében használt nyelv
+
+### Nyelvek
+- Élő nyelvek felét Indiában beszélik
+- **Világnyelv**: A legnagyobb számban beszélt nyelvek és földrajzilag is széles körben elterjedt, pl:
+	- Angol
+	- Spanyol
+	- Hindi
+	- Mandarin
+	- Arab
+- **lingua franca** - *Összekötő nyelv*
+	- Sokan beszélik nem anyanyelvként
+	- Napjainkban pl. angol
+	- régen latin
+- **Indoeurópai nyelvcsaládok**
+	- újlatin:
+		- román
+		- spanyol
+		- olasz
+		- francia
+	- germán:
+		- Német
+		- angol
+		- holland
+		- norvég
+		- dán
+	- szláv
+		- orosz
+		- ukrán
+		- cseh
+		- lengyel
+		- szerb
+		- horvát
+		- bolgár
+	- indoiráni
+		- perzsa
+		- hindi
+		- 

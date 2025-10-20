@@ -1,0 +1,65 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiDice",
+      "LiDice2",
+      "LiImages",
+      "LiBookmark",
+      "💾"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "Nyelvtan",
+        "icon": "LiPen",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "Irodalom",
+        "icon": "LiBook",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": "Földrajz",
+        "icon": "LiGlobe2",
+        "for": "everything",
+        "order": 2
+      },
+      {
+        "rule": "Történelem",
+        "icon": "LiSword",
+        "for": "everything",
+        "order": 3
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "10f/Tartalomjegyzék - 10F.md": "LiBookmark",
+  "10f/assets": "LiBookmark",
+  "10f": "LiBookmark"
+}

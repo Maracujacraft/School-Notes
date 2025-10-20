@@ -36,7 +36,7 @@ A szerzetesrendeket típusuk és alapítási céljuk szerint csoportosítjuk.
 *   **Fontos események**:
     *   **1099**: Jeruzsálem bevétele és a keresztes államok létrejötte.
     *   **1204**: A IV. keresztes hadjárat **Konstantinápoly kifosztásához** vezet.
-    *   **1291**: **Akkón elfeste** – a keresztes jelenlét vége a Szentföldön.
+    *   **1291**: **Akkón eleste** – a keresztes jelenlét vége a Szentföldön.
 *   **Hatások**:
     *   Fellendült a kereskedelem és a lovagi kultúra.
     *   Európa megismerte a fejlettebb **keleti tudományokat**.

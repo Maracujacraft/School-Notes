@@ -1,3 +1,4 @@
+# **Az állítmány**
 - Mondatelemzés első eleme
 - Elemző kérdést általa tesszük fel
 - **Mit állítok?**

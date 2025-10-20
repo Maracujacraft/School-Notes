@@ -1,3 +1,4 @@
+# **Határozó és Jelző**
 ### Határozó
 - Az alaptagban kifejezett cselekvés körülményeiről tájékoztatnak
 - Lehetséges szófajok:

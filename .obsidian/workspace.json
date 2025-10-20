@@ -8,35 +8,103 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f7354f911c38b69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10f/Irodalom/(8) Összefoglalás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(8) Összefoglalás"
-            }
-          },
-          {
             "id": "ccf036530527f12f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10f/Történelem/Középkor/doga segédlet - középkori egyház.md",
+                "file": "10f/Irodalom/Barokk (2-8)/(2) Barokk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "doga segédlet - középkori egyház"
+              "title": "(2) Barokk"
+            }
+          },
+          {
+            "id": "19c269bf043a619a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10f/Irodalom/Barokk (2-8)/(3) A_Barokk_Magyarországon.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(3) A_Barokk_Magyarországon"
+            }
+          },
+          {
+            "id": "96e87e982e50131b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10f/Irodalom/Barokk (2-8)/(4) Zrínyi Miklós Portréja.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(4) Zrínyi Miklós Portréja"
+            }
+          },
+          {
+            "id": "b8c752579aa29f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10f/Irodalom/Barokk (2-8)/(5)-(6) Zrínyi Miklós_Szigeti Veszedelem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(5)-(6) Zrínyi Miklós_Szigeti Veszedelem"
+            }
+          },
+          {
+            "id": "37ff39c2e99703f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10f/Irodalom/Barokk (2-8)/(6) A rokokó(, az irodalmi levél).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(6) A rokokó(, az irodalmi levél)"
+            }
+          },
+          {
+            "id": "a1e378786c5c31ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10f/Irodalom/Barokk (2-8)/(7) A kuruc kor irodalma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(7) A kuruc kor irodalma"
+            }
+          },
+          {
+            "id": "51dadb9b6e13ec2b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "10f/Irodalom/Barokk (2-8)/(8) Összefoglalás.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "(8) Összefoglalás.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,12 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "10f/Földrajz/Népesség és telpülés földrajz/(6).md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": "co"
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of (6)"
             }
           }
         ],
@@ -182,38 +251,44 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e5d05763bc6199ee",
+  "active": "37ff39c2e99703f2",
   "lastOpenFiles": [
-    "10f/Irodalom/_Irodalom_Szöveggyűjteméy.pdf",
-    "10f/Történelem/Középkor/doga segédlet - középkori egyház.md",
-    "10f/Irodalom/(8) Összefoglalás.excalidraw.md",
-    "10f/Irodalom/(bonus1) Why racism is actually good.md",
-    "10f/Irodalom/(8) Összefoglalás.md",
-    "10f/Irodalom/(1) Év eleji ismétlés.md",
-    "10f/földrajz/Népesség és telpülés földrajz/(5) Vallásösszetétel.md",
-    "10f/földrajz/Népesség és telpülés földrajz/(4) Emberfajták.md",
-    "10f/Történelem/Középkor/Előzőhöz.md",
-    "10f/Irodalom/(6) A rokokó(, az irodalmi levél).md",
-    "10f/Irodalom/(4) Zrínyi Miklós Portréja.md",
+    "10f/Irodalom/Barokk (2-8)/(7) A kuruc kor irodalma.md",
+    "10f/Irodalom/Barokk (2-8)/(4) Zrínyi Miklós Portréja.md",
+    "10f/Irodalom/Barokk (2-8)/(6) A rokokó(, az irodalmi levél).md",
+    "10f/Irodalom/Barokk (2-8)/(5)-(6) Zrínyi Miklós_Szigeti Veszedelem.md",
+    "10f/Irodalom/Barokk (2-8)/(3) A_Barokk_Magyarországon.md",
+    "10f/Irodalom/Barokk (2-8)/(2) Barokk.md",
+    "10f/Irodalom/Barokk (2-8)/(8) Összefoglalás.excalidraw.md",
+    "10f/Irodalom/Barokk (2-8)/(8) Összefoglalás.md",
     "10f/Tartalomjegyzék - 10F.md",
-    "10f/Nyelvtan/(3) Az alany és a tárgy.md",
-    "10f/földrajz/Népesség és telpülés földrajz/(2) Népességi átmenet szakaszai 25.09.16.md",
-    "10f/Irodalom/(7) A kuruc kor irodalma.md",
     "10f/Történelem/Középkor/2025.10.06-Házi.md",
-    "10f/Történelem/Középkor/A Középkori Egyház.md",
+    "10f/Irodalom/_Irodalom_Szöveggyűjteméy.pdf",
+    "10f/Irodalom/(1) Év eleji ismétlés.md",
+    "10f/Földrajz/Népesség és telpülés földrajz/(6) Etnika.md",
+    "10f/Irodalom/Barokk (2-8)",
+    "Pasted image 20251014103903.png",
+    "Pasted image 20251014103659.png",
+    "Pasted image 20251009123002.png",
+    "10f/Földrajz/Népesség és telpülés földrajz/(5) Vallásösszetétel.md",
+    "10f/Nyelvtan/(5) A mondatok típusai.md",
+    "10f/Nyelvtan/(2) Az állítmány.md",
+    "10f/Nyelvtan/(3) Az alany és a tárgy.md",
     "10f/Nyelvtan/(4) Határozó és Jelző.md",
+    "10f/Történelem/Középkor/Előzőhöz.md",
+    "10f/Történelem/Középkor/A Középkori Egyház.md",
     "10f/Történelem/Középkor/Előzőhöz.excalidraw.md",
+    "10f/Történelem/Középkor/doga segédlet - középkori egyház.md",
+    "10f/Irodalom/(bonus1) Why racism is actually good.md",
+    "10f/Földrajz/Népesség és telpülés földrajz/(4) Emberfajták.md",
+    "10f/Földrajz/Népesség és telpülés földrajz/(2) Népességi átmenet szakaszai 25.09.16.md",
     "[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[Előzőhöz.md",
     "10f/Történelem/Középkor/Untitled.canvas",
-    "10f/Irodalom/(5)-(6) Zrínyi Miklós_Szigeti Veszedelem.md",
-    "10f/Irodalom/(3) A_Barokk_Magyarországon.md",
     "Földrajz.md",
-    "(2/) 1.md",
-    "10f/Nyelvtan/(2) Az állítmány.md",
-    "10f/földrajz/Népesség és telpülés földrajz/(3) Népesség-összetétel 2025.09.23.md",
     "Névtelen 2.base",
     "10f/assets/foldrajz_korfa.png",
     "10f/assets",
@@ -224,7 +299,6 @@
     "10f/Történelem/Középkor",
     "10f/Történelem",
     "Névtelen.base",
-    "Névtelen 1.base",
     "Untitled 1.canvas",
     "Német/Untitled.canvas"
   ]

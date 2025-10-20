@@ -1,4 +1,8 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-desmos"
+  "obsidian-desmos",
+  "obsidian-style-settings",
+  "obsidian-icon-folder",
+  "obsidian-file-color",
+  "copilot"
 ]

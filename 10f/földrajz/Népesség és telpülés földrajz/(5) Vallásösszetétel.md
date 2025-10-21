@@ -6,10 +6,11 @@
         - **keresztény**
             - legelterjedtebb
             - egyházszakadás
-                - nyugati (római katolikus)
+                - nyugati
                     - római katolikus
                     - protestáns
-                - keleti (ortodox)
+                - keleti
+	                - ortodox
         - **Iszlám**
 	        - *Muszlim, muzulmán, mohamedán*
             - isten: Allah
@@ -39,21 +40,19 @@
 				- Visnu: *Megtartó*
 				- Síva: *pusztító*
 	3. Nem Istent követő/Tanítást követő vallások
-		- Tankövető, nem isten
 		- **Buddhizmus**
 			- Buddha: Gautama Sziddhártha (सिद्धार्थ गौतम)
-			- Újjászületséből való kilépés: Nirvana
+			- Újjászületésből való kilépés: Nirvana
 			- Délkelet-Ázsia
 		- **Univerzista**:
 			- Taoizmus+Buddhizmus+Konfucianizmus
 		- **Sintóizmus**
 			- Japán
 #### Foglalkoztatottság szerinti megosztás
-- Munkanélküliek, aktívak, inaktív keresők, munkaképes korúak, eltartottak, aktív keresők, inaktívak
 - Munkaképes korúak
 	- Aktívak
 		- Aktív keresők -- foglalkoztatottak
 		- Munkanélküliek
 	- Inaktívak
 		- Inaktív keresők -- Passzív jövedelem
-		- Eltartottak -- 
+		- Eltartottak

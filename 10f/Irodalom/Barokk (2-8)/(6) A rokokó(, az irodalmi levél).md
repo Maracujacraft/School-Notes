@@ -18,4 +18,4 @@
 - **112. levél**
 	- 1735. ápr. 18.
 	- II. Rákóczi György halála: megrendültség
-	- Pátosz
+	- Pátosz - szenvedés

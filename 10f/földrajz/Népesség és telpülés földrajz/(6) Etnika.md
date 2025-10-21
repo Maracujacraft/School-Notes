@@ -1,5 +1,5 @@
 # *Etnika (6)*
-- **Munkanélküliségi ráta**: munkanélküliek/munkaképesek \* 100
+- **Munkanélküliségi ráta**: $$\frac{\text{Munkanélküliek}}{\text{Munkaképesek}} \times{100}$$
 - **Foglalkoztatási ráta**: $$\frac{\text{Foglalkoztatottak száma}}{\text{Gazdaságilag aktív népesség}} \times 100 $$
 ### Fogalmak
 - **foglalkoztatási szerkezet**: aktív népesség megoszlását mutatja a gazdasági szektorok mögött

@@ -57,10 +57,3 @@
 	- Dél-Amerika
 
 
-|          | Europid | Negrid | Mongolid | Ausztralid |     |
-| -------- | ------- | ------ | -------- | ---------- | --- |
-| Bőrszín  |         |        |          |            |     |
-| Haj      |         |        |          |            |     |
-| Szemszín |         |        |          |            |     |
-|          |         |        |          |            |     |
-|          |         |        |          |            |     |

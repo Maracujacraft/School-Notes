@@ -1,0 +1,41 @@
+- **Fogalom**: *a sejtben lejátszódó biokémiai folyamatok összessége*
+	- anyagcsere, energiacsere, információcsere
+
+# Lebontó
+- energiát termel
+- makromolekulák → kis molekulák + energia ( = ATP termelés)
+# Felépítő
+- energiát igényel (ATP-t fogyaszt)
+- kis molekulák → saját makromolekulák
+
+# ATP = adenozin-trifoszfát
+- ha nincs ATP akkor halott vagy 💀
+- nukleotid
+	- mindig ribóz a cukor
+	- mindig adenin a szerves bázis
+	- hidrofil
+		ATP + H$_2$O ⇌ ADP + H$_3$PO$_4$
+				adenozin-difoszfát
+		ADP + H$_2$O ⇌ AMP + H$_3$PO$_4$
+				adenozin-monofoszfát
+- 37°C-on nem játszódnak le biokémiai folyamatok
+	- katalizátort kell használni
+		- Enzim = biokatalizátor
+			- csökkenti az aktiválási energiát
+				- Enzim működés
+					- E + S (szubsztrát = aminek a reakcióját katalizáljuk) → ES (Enzim-szubsztrát komplex) → E + P (Produktum, termék)
+- Enzimműködés optimuma
+![[Drawing 2025-10-22 12.29.09.excalidraw]]
+- **Rögzített változó**
+	- enzim mennyisége
+	- szubsztrát mennyisége
+	- pH (kémhatás)
+- **Inhibátor** → enzimműködés gátló anyag
+	- Kompetitív
+		- a gátló anyag megkötődik a kötőzsebben
+	- Allosztérikus
+		- a gátló anyag kötődik az enzimhez de nem az aktív centrumban
+		- azzal hogy hozzákötődik az enzimhez, megváltoztatja az enzim térszerkezetét → megváltozik a kötőtér szerkezete → nem tudja megkötni a szubsztrátot
+- **Összetétel**
+	- Aminosavakból állnak → *egyszerű enzimek (globuláris fehérjék)*
+	- Aminosav + “más” → *összetett enzimek (globuláris fehérje + “más”)*

@@ -1,0 +1,35 @@
+# **Település földrajz (9)**
+- **Település**: *Emberek lakó,- és munkahelyének a térbeli együttese*
+	- Ideiglenes
+		- *Nomád sátorok, Jurtatelepülések, Indiánok, Vándorcirkusz*
+	- Állandó
+		- *Magányos*: **Egy lakóépületből áll**
+			- **Tanyák**
+				- Kézi, egyszerűbb szerszámok
+				- Típusai:
+					- *Sortanya*
+					- Bokortanyák: *Nyírség jellemző tanyatípusa*	
+					- Szórt
+					  ![[Drawing 2025-11-11 10.46.49.excalidraw|75%]]
+				- Magyar tanyarendszer a török idők után jött létre
+			- **Farmok**
+				- Gépiesítés
+			- Helyileg teljesen egybe tartozik a lakó,- és munkahely
+		- ***Csoportos***
+			- **Falu**
+				- Funkciója a mezőgazdasági tevékenység
+				- Modernizálódtak
+				- Hasonlítanak a városokhoz
+				- Magyarország $\frac{1}{3}-a$ 
+				- Csoportosítás
+					- **Méret szerint**
+						- Apró falu (*500 fő alatt*)
+						- Kis falu (*500 lakos felett*)
+						- Nagy falu (*2,000 lakos felett*)
+						- Óriásfalvak (*10,000 felett*)
+					- **Alaprajz szerint**
+						- Egyutcás falu (*nincs mellékutca*)
+						- Úti falu (*Út mentén*)
+						- Sakktáblás falu (*Szabályos, négyzetrácsos*)
+						- Halmaz Település(*Egy központi tér körül fejlődik szerves módón -> szabálytalan utcák* )
+			- **Város**

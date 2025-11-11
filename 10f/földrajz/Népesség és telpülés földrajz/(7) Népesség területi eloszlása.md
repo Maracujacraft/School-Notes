@@ -34,3 +34,19 @@
 		- Európában: 2000m
 		- Magyarország: 800m
 	- Esőerdők
+- **Legsűrűbben lakott országok:** 
+	- ***$\frac{fő}{km^2}$-t nem kell tudni)***
+	- Bangladesh ($\frac{1000 fő}{km^2}$) *legsűrűbb*
+	- India ($\frac{500 fő}{km^2}$)
+	- Dél-Korea
+	- Japán ($\frac{300 fő}{km^2}$)
+	- Belgium ($\frac{300 fő}{km^2}$)
+	- Hollandia ($\frac{300 fő}{km^2}$)
+- **Legritkábban lakott országok**
+	- Mongólia *legritkább*
+	- Nepál
+	- Ausztrália
+	- Izland
+	- Csád
+	- Líbia
+	- Brazília

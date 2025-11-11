@@ -14,7 +14,7 @@
 	- [[(7) A kuruc kor irodalma|A kuruc kor irodalma]]
 ### Nyelvtan
 - [[(2) Az állítmány]]
-- [[(3) Az alany és a tárgy]]
+- [[(1) Az alany és a tárgy]]
 ### Történelem
 - **Középkor**
 	- [[A Középkori Egyház]]

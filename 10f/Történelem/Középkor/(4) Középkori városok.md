@@ -91,8 +91,11 @@
 		- Selyemútról (Keletről) termékek közvetítése Nyugat-Európába tengeren
 			- Velence
 			- Genova
+		- Egzotikus termékek: *pl. fűszerek, puskapor*
 	2. **Hanza városok (Balti-tenger)**
 		- Lübeck, Rostok, Hamburg, Bréma
 		- Északról: hal, prém, borostyán
 	3. Champagne (Fr. o.)
+		- Kettős találkozás
+		- Alpok elkerülése
 	4. Atlanti-óceánon kereskedelem

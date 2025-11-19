@@ -7,7 +7,7 @@
 			- **Tanyák**
 				- Kézi, egyszerűbb szerszámok
 				- Típusai:
-					- *Sortanya*
+					- Sortanya
 					- Bokortanyák: *Nyírség jellemző tanyatípusa*	
 					- Szórt
 					  ![[Drawing 2025-11-11 10.46.49.excalidraw|75%]]
@@ -33,3 +33,17 @@
 						- Sakktáblás falu (*Szabályos, négyzetrácsos*)
 						- Halmaz Település(*Egy központi tér körül fejlődik szerves módón -> szabálytalan utcák* )
 			- **Város**
+			    - központi funkciókkal bír
+			        - szakrendelő
+			        - kórház
+			        - rendőrség
+			        - középiskola
+			        - hivatalok
+				- fejlett
+				- Népességszám általában nagyobb
+				- **Városi rang**
+					- Régen király adta
+					- Erőforrásokra való pályázáshoz sokszor szükséges
+				- **Várossá nyilvánítás típusai**:
+					- Létszám alapján ()
+					- 

@@ -1,4 +1,4 @@
-# **A felvilágosodás (3/11)**
+# **A felvilágosodás (2/3/11)**
 - Művelődés- és eszmetörténeti korszak, több stílusirányzattal
 - **Időszak**: *17-18. század*
 - **Térbeli megjelenés**: *Anglia, Európába francia közvetítéssel*

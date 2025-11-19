@@ -1,4 +1,4 @@
-# Francia Klasszicista Színház És Dráma (1/9)
+# Francia Klasszicista Színház És Dráma (2/1/9)
 ## A Klasszicizmus kialakulása Franciaországban
 - **17. század**, barokkal egyidejűleg és azt követően, művészeti, kulturális, esztétikai mozgalom, Franciaországban, majd Európában
 - Antik görög és római minták használata

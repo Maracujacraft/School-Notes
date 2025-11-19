@@ -1,4 +1,4 @@
-# **Moliére (2/10)**
+# **Moliére (2/2/10)**
 - 1622 - 1673
 - Párizsi drámaíró és színész, vándorszínész
 - Főbb művei

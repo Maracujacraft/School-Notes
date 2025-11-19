@@ -1,0 +1,41 @@
+# **Az angol felvilágosodás (2/4/12)**
+- **A modern regény**
+	- regényforma-változatok: utazások, naplók, önéletrajzok, kalózok történetei
+	- polgári olvasók
+	- Nyomdászok, könyvkeresők
+	- **Regényírók**
+		- *Daniel Defoe*
+		- *Jonathan Swift*
+		- *Samuel Richardson*
+		- *Henry Fielding*
+		- *Laurence Sterne*
+	- **Jonathan Swift**
+		- Pesszimista világnézet
+		- 1720-as évek Gulliver utazásai
+			- Műfaji kérdés - gyermekirodalom?
+			- társadalmi szatíra: közönséget nem szórakoztatni, hanem bosszantani akarja
+			- Szatíra eszköze - Relativitás: emberi szokások, erkölcsök
+			- regény nagy része - négy képzeletbeli utazás - összehasonlítja az angliai
+			- első két könyv - ember társadalmi életét tette nevetség tárgyává
+			- harmadik, negyedik könyv . ember szellemi és erkölcsi értékeit kérdőjelezi meg
+			- **Liliput**
+				- Kicsinyke emberek
+				- Gulliver: *Emberhegy*
+				- Pozíciókra nem rátermettség, hanem kötéltáncos mutatványok alapján
+				- toryk / whigek: * Vastag Vég / Hegyes Vég*
+			- **Brobdingnag**
+				- Óriások
+				- Gulliver a királlyal beszél, a király kineveti
+			- **Laputa**
+				- Filozófusok: *matematika, zeneelmélet*
+				- Király Kitalátorok Akadémiája: *elméleteket dolgoznak ki, de nem működnek, közben az emberek szegénységben élnek*
+				- Mágusok szigete: *nincs emberi fejlődés*
+			- **Nyihahák országa**
+				- lovak: *józan, értelem, tudás, tiszta erkölcs*
+				- emberek: *"jehuk", kibírhatatlan, undorító, meztelen, fákon mászkáló, marakodó bestiák*
+				- ember felett kimondott ítélet: *Értékek viszonylagossága, ember esendő és bűnös volta, emberi lét ellentmondásai*
+- **Fogalmak**
+	- **Szatíra**: *komikus ábrázolás, gúnnyal, kárörvendve vagy dühvel mutatja be a jelenséget*
+	- **Irónia**: *Stilisztikai-retorikai fogalom, lényege, hogy az elbeszélő ellenkezőjét mondja annak, amit érez*
+	- **Szarkazmus**: *Indulatos, durva, sértő gúny*
+	- **Groteszk**: *Esztétikai minőség; egymással össze nem illő elemeket bizarr módon társít, egyszerre komikus és félelmet keltő hatást vált ki*

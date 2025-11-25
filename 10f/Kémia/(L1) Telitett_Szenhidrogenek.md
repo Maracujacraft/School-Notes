@@ -89,14 +89,14 @@
 			- teflon
 			- <u>freon</u>
 	3. Hőbontás - *krakkolás*
-		- magas T, Nincs ${O_2}$, Magas P
+		- magas T, Nincs ${O_2}$, Magas Pxc
 		- $CH_3-CH_2-CH_2-CH_2-CH_3$
 			- Telítetlen: $CH_2 = CH_2$ *<i>et<u>én</u></i>
 			- Telített: $CH_3-CH_2-CH_3$
 ### Kőolaj
 - **Feldolgozás**
 	- Szakaszos lepárlás ←→ *Frakcionált lepárlás* 
-	- Frakcionált desztillálás párlatai (forráspont szerint)
+	- Frakciconált desztillálás párlatai (forráspont szerint)
 		- Benzin (*legalacsonyabb*)
 		- Petróleum (→ kerozin)
 		- Dízel

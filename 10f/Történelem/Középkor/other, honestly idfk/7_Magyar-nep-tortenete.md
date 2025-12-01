@@ -1,0 +1,27 @@
+# **Magyar nép története (7)**
+- **Őstörténetünk forrásai:**
+	- **Írott**: krónikák, korabeli beszámolók
+	- **Tárgy**: régészet, antropológia, genetika
+	- Beszélt nyelv 
+	- Finnugor nyelv, sztyeppei török kultúrájú nép
+	- Honfoglaló magyarok genetikailag ázsiai jellegűek
+	- **Uráli alapnyelv**
+- Magyar nyelv **finnugor**:
+- eredete:
+	- Magna Hungária/Baskíria:
+		- nyelvi bizonyítékok, régészet, későbbi írásos emlékek
+	- (**Levédia**): 830
+		- írott források szerint
+		- Kazár Birodalom
+			- kettős fejedelemség
+			- Törzsek laza szövetségében
+				- gyula: katonai vezetők
+				- kende: vallási vezetők 
+			- Kabarok csatlakozása
+		- Etelköz: *(830)*
+			- **Vérszerződés**:
+				- Álmos, Előd, Ond, Kond, Tas, Huba, Töhötöm
+			- Magyar nomád állam → Álmos
+				- Nyék, Megyer, Kürd-gyarmat, Tarján, Jenő, Kér, Keszi
+			- Dnyeper, és az Alsó-Duna között
+		- Később török vonások megjelenítése

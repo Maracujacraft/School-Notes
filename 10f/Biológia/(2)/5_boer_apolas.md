@@ -1,0 +1,71 @@
+
+- túl sok fürdés káros
+	- leoldódik a védőréteg
+	- a szappan lúgos
+		- nem jó
+		- elrontja a mikróbiomot
+	- napi 2-3 az túlzás
+- túl kevés fürdés se jó
+- napi 1-szeri fürdés az aranyközépút
+
+## Fertőzéstípusok
+
+- **gombás fertőzés**
+    - meg kell mutatni bőrgyógyásznak
+    - gombaellenes készítmények használata
+- **szemölcsök**
+    - vírus okozza
+    - fertőző
+        - a testen elterjedhet
+        - másokat megfertőzhet
+    - vannak erre készítmények
+    - lefagyasztják
+- **mitesszer**
+    - szőrtüszők kivezető nyílása eltömődik
+    - főként esztétikai probléma
+    - mit lehet vele tenni
+        - megfelelő bőrápolás
+    - könnyen válhat pattanássá
+        - nem tud ürülni a faggyúmirigy
+            - elszaporodnak a baktériumok
+                - a test védekezik
+                    - elhalt sejtek → genny
+- **Vízhólyag**
+	- szövetnedv egy adott helyen felgyülemlik
+		- felcsúcsosodik a hámréteg
+	- magától felszívódik
+	- nem szabad kiszúrni → mert védőréteg
+		- elfertőződik
+	- Vér kerülhet bele → vérhólyag
+		- nem szabad kiszúrni
+		- lélegző ragtapasszal kell letapasztani, hogy megvédjük
+- **Anyajegy**
+	- Daganat (melanoma) fejlődhet ki belőle, ha állandó károsító ingernek van kitéve
+		- erős UV sugárzás
+		- mechanikai ártalom
+	- **Melanomára** utalhat, ha megváltozik:
+		- az anyajegy színe, pigmentációja, felszíne, alakja, határa
+	- Melanoma (**bőrrák**) tünetek:
+		- rendellenes alak
+		- vérzik
+- **Égési sérülés**
+	- hűteni kell
+	- Típusai:
+		- **Első fokú égési sérülés**
+			- **Csak a felhám (epidermisz) károsodik**
+			- Leggyakrabban a nap és szolárium okozza
+			- Hámszövet pirossá, feszessé, fájdalmassá válhat
+		- **Másodfokú égési sérülés**
+			- **Hám minden rétegét és az irha több rétegét károsítja**
+			- Vízhólyag
+			- Ha a bőr 10-25%-a érintett, akkor orvoshoz kell fordulni
+		- **Harmadfokú égési sérülés**
+			- **Kötőszövet is sérül**
+			- szürkés-fekete
+		- **Negyedfokú égési sérülés**
+			- **A bőr minden rétege károsodik, sőt az alatta lévő szövetek is**
+			- A bőr elszenesedik
+			- A bőr mély rétegeit, az alatta lévő zsírszövetet, izmokat vagy akár csontokat is érinthet
+			- Gyakran fájdalommentes, mert az érzőideg-végződések elpusztulnak
+			- Sürgős azonnali kórházi ellátást igényel
+			- 

@@ -37,7 +37,7 @@
 ## Membránlefűződés
 - Nagyméretű, poláris molekulák (fehérje, nukleinsav)
 - **Endocitózis** = bekebelezés
-	- Sejtbe/sejtszerveocskébe anyagok bejuttatása lefűződő membránba “becsomagolva”
+	- Sejtbe/sejtszervecskébe anyagok bejuttatása lefűződő membránba “becsomagolva”
 	- Egysejtűek táplálékfelvétele
 	- Fehérvérsejtek a kórokozókat így közömbösítik
 - **Exocitózis**

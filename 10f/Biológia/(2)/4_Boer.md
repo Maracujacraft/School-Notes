@@ -51,4 +51,42 @@
 		- Tejmirigyek
 
 		- **Faggyúmirigyek**:
+			- vízhatatlanná tesz
+			- rugalmassá tesz
+			- **MÁSOLNI**
+		- **Verejtékmirigyek**
+			- Váladék nagy része víz
+			- Hűtés
+				- Túlhevülés esetén a verejték elpárolgása hőt von el a bőr felületéről
+			- Kiválasztás
+		- **Nagy verejtékmirigy** (*Illatmirigyek*)
+				- Kémiai kommunikáció
+					- nemi vonzalom
+				- Szőrtüszőkbe nyílnak
+				- Hajlatokban, emlő körül, nemi szervek körül, végbélnyílás körül
+		- **Tejmirigy**
+				- Módosult verejtékmirigy
+				- Utódok táplálásában van szerepük
+				- kizárólag emlősöknél az emlőben helyezkedik el
+				- Ivarérettség után fejlődik ki
+				- Hormonális irányítás alatt áll
+		- **Szőrszálak**
+		- ### Szőrszálak
+			- Hám képződmény *(hám származéka)*
+			- Hőszigetelés
+			- Szőrtüszőből ered
+			- Szőrtüsző legalján a hajhagyma *(ami termeli a szálat)*
+			- Szőrszálmerevítő izom
+		- **Köröm**
+			- lábujjak, kézujjak /ujjpercek/ végén lévő elszarusodott lemez-szerű képződmény
+			- mechanikai védelem
+			- 
+			- Hám képződmény (*Hám származéka*)
+			- Hőszigetelés
 3. **Bőralja**
+	- Alapvetően zsírszövet
+	- tápanyagraktár
+	- szigetel
+	- mechanikai védelem
+		- pl.: talpunkon zsírréteg → ha nem lenne, nem lenne fájdalommentes a járás
+		- 

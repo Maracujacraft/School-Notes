@@ -29,10 +29,11 @@
 ### Mellérendelő összetett mondat
 - Tagmondatai egyenrangúak, tartalmi-logikai kapcsolat van közöttük
 - **Típusai**:
-	- Kapcsolatos: *Jött valaki és segített* -
-	- Ellentétes: *Jött valaki, de nem segített* -><-
-	- Választó: *Vagy segítesz, vagy nem* ~
-	- Következtető: *Segítettél így megmenekültem* 
+	- Kapcsolatos: *Jött valaki és segített* – vonal
+	- Ellentétes: *Jött valaki, de nem segített* →← középre nyíl
+	- Választó: *Vagy segítesz, vagy nem* ~ hullámos
+	- Következtető: *Segítettél így megmenekültem* → jobbra
+	- Magyarázó: megmenekültem, hisz segítettél ← balra
 	- /// elkérni ///
 ### Töbszörösen összetett mondat
 - Kettőnél több tagmondatból állnak

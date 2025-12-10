@@ -51,7 +51,7 @@
 		- *Álmos, Előd, Ond, Kond, Tas, Huba, Töhötöm*
     - **települések**
         - *Nyék, Megyer, Kürt-gyarmat, Tarján, Jenő, Kér, Keszi*
-4. **Kárpát-medence** 
+	 **Kárpát-medence** 
 	- avarok
 	- morvák
 		- Elsősorban nekik van hatalmuk
@@ -90,3 +90,34 @@
 		- katonai előkelők
 		- fegyveres kíséret
 		
+
+### Kalandozások (*907-970* (933,955))
+- **962** - Német-római Birodalom (Császárság)
+
+
+
+
+
+### **Géza fejedelem** (972-997)
+- Árpád dédunokája
+- Külpolitika:
+	- Magyarság két erős birodalom közé szorul
+		- Német-római császárság ()
+		- Bizánci Birodalom (**K**)
+	- **973** → Quedlinburg
+		- I. Nagy Ottó
+		- Birodalmi gyűlés összehívása
+		- Géza fejedelem követeket küld
+			- Lemond a bécsi medencéről
+			- Cserébe térítőket kér
+				- Ő és a vezetőség felveszik a kereszténységet
+					- **Politikai döntés**
+	- Fiát, Vajkot (István) keresztény hitben nevelteti (Gellért-püspök)
+		- A bajor Gizellát veszi el 
+	- **Cél**: Erős fejedelmi hatalom
+	- **primogenitúra**:   Elsőszülött férfi örökli a trónt
+	- **Seniorátus**:   A törzs legidősebbe örökli a trónt
+	- **Levirátus**:   Az elhunyt vezető özvegyét elvevő örökli (pogány)
+	- **Idoneitás**:   Alkalmasság szerinti öröklés
+	- Megalapítja a Pannonhalmi apátságot
+	- Erős fejedelmi hatalom

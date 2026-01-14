@@ -3,7 +3,7 @@
 - **Foglalkoztatási ráta**: $$\frac{\text{Foglalkoztatottak száma}}{\text{Gazdaságilag aktív népesség}} \times 100 $$
 ### Fogalmak
 - **foglalkoztatási szerkezet**: aktív népesség megoszlását mutatja a gazdasági szektorok mögött
-- **állam**: Politikai fogalom, olyan határokkal kijelölt terölet, melyet intézményei segítségével egy adott politikai rendszer irányít
+- **állam**: Politikai fogalom, olyan határokkal kijelölt terület, melyet intézményei segítségével egy adott politikai rendszer irányít
 - **nemzet**: Emberek tartós, a történelem folyamán kialakult csoportja, melyeket összetart a nyelv, kultúra, hagyományok és történelem
 - **nemzeti kisebbség**: Egy adott állam területén élő, de nem a nemzeti többséghez tartozó csoport (erdélyi kisebbség, román, stb...)
 - **etnikai kisebbség**: Egy kisebbség melynek nincs anyaállamuk

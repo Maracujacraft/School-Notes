@@ -36,4 +36,3 @@
 - ($J_{meki}$) **Kijelölő szerepű mennyiségjelző**: *Harmadik nekifutásra*
 - ($J_{ki}$) **Mutató névmási kijelölő jelző**: *Attól az embertől*
 - ($J_{bi}$) **Birtokos jelző**: *Mari könyve*
-- 

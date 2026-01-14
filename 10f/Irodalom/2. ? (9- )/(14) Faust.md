@@ -1,0 +1,33 @@
+# **Faust**
+## Johann Wolfgang Goethe
+- 1749-1832
+- német jogász, költő, író
+- művei:
+	- AZ ifjú Werther szenvedései (*1774*)
+		- levélregény, negatív fejlődéstörténet, cselekménye Werther lelkében játszódik, szerelmi bánat → öngyilkosság
+	- *Faust I.* (1808)
+	- Nyugat-keleti díván (1819)
+- Német klasszika/weimari klasszika → 18. század második felének német irodalma, Johann Wolfgang, Goethe és Friedrich Schiller munkássága
+- Sturm und Drang → ‘*vihar és előretörés*’, 1770-as évek, német irodalmi forradalom, szabad alkotó fantáziát helyezi a középpontba
+## Faust
+- két részes drámai költemény - lírai alkotás párbeszédes drámai formában, költőien megfogalmazott filozófiai eszmék mellett háttérbe szorulnak a dráma követelményei
+	- emberiségköltemény: *emberiséget foglalkoztató kérdésekkel foglalkozik*
+	- *Dante, Goethe, Madách*
+- Kétszintes dráma: *Két egymással alá- és fölérendeltségű világszintet kapcsol össze, földi és transzcendens, égi világot*
+- **Előzménye**
+	- Doktor Faustus 1540 táján élt, mondája: *ég és föld titkait akarta megtudni + élet örömeit élvezni → ördöggel kötött szövetséget → kárhozatra ítéltetett*
+- **Főhős:** *Faust*
+	- tudásvágy jellemzi - erény
+- Faust kitanult mindent, de semmit se tud
+- már az öngyilkosságon gondolkodik, amikor találkozik Mefisztóval → alkut kötnek - ördög teljesíti kívánságait, ha ta túlvilágon az övé lesz a lelke: Faust feltétele: valóban boldoggá kell tennie
+- Mefisztó érzéki örömökkel próbálja romlásba dönteni + megfiatalítja
+- Mefisztó ellenpólusa Margit - Faust beleszeret, Margit feláldozza magát Faustért
+- Margit halála után a császári udvarba megy, de itt se boldog
+- Ősi Hellászba utazik, ahol beleszeret Helenába, születik egy fiúk: *Euphorion* → magasba vágyik → meghal, anyja is
+- Faust visszatér a jelenbe: *megmenti a császárt* → földet kap - munkálkodás közben, öregen éri a halál
+- Nem lesz Mefisztóé a lelke: *Isteni kegyelmet kap*
+- **Faust**:
+	- “örök ember”
+- **Mefisztó**:
+	- “A tagadás lényege”
+	- “Az erő része, mely örökké rosszra tör, s örökké jót mivel.”

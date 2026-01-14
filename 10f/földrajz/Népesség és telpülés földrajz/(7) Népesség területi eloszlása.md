@@ -35,7 +35,7 @@
 		- Magyarország: 800m
 	- Esőerdők
 - **Legsűrűbben lakott országok:** 
-	- ***$\frac{fő}{km^2}$-t nem kell tudni)***
+	- (***$\frac{fő}{km^2}$-t nem kell tudni)***
 	- Bangladesh ($\frac{1000 fő}{km^2}$) *legsűrűbb*
 	- India ($\frac{500 fő}{km^2}$)
 	- Dél-Korea

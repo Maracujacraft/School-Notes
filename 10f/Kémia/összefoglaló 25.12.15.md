@@ -67,30 +67,7 @@ Példa:
 
 C$_6$H$_{14}$ + $\frac{19}{2}$O$_2$ → 6CO$_2$ + 7H$_2$O
 
----
-
-### Szubsztitúció (helyettesítés)
-
-- Az alkánok **halogénekkel** (pl. klór) reagálnak **magas hőmérsékleten vagy UV-fény hatására**.
-- Ilyenkor egy **hidrogénatom helyére halogén lép**.
-
-Példa:
-
-C$_2$H$_6$ + Cl$_2$ $\xrightarrow{\text{T\uparrow / UV}}$ C$_2$H$_5$Cl + HCl
-
-- A termék neve: **klóretán**.
-- Ezeket **halogénezett szénhidrogéneknek** nevezzük.
-  - példák: **teflon**, **freonok**
-
----
-
-### Hőbontás – krakkolás
-
-- **Magas hőmérsékleten** történik.
-- **Oxigén nélkül** zajlik.
-- Gyakran **nagy nyomáson**.
-- Nagy szénatomszámú alkánok kisebb molekulákra bomlanak.
-- ![[Drawing 2025-11-24 10.42.31.excalidraw]]
+$C_{10}H_{22}$ +$\frac{31}{2}O_2$ → $10CO_2+11H_2O$
 
 ---
 
@@ -125,14 +102,14 @@ Példa:
 
 ### Halmazállapot (T = 20°C, p = 10$^5$ Pa)
 
-- Kis szénatomszámnál: **gázok**
-- Közepes szénatomszámnál: **folyadékok**
-- Nagy szénatomszámnál: **szilárdak**
+- C$_2$-C$_4:$ **gázok**
+- C$_5$-C$_{16}$: **folyadékok**
+- C$_{17}$-: **szilárdak**
 
 További jellemzők:
 - **Apoláris oldószerekben** oldódnak.
 - **Színtelenek**.
-- Bizonyos szénatomszám felett **benzinszagúak**.
+- C$_5$-C$_{16}$ között **benzinszagúak**.
 
 ---
 
@@ -155,7 +132,7 @@ CH$_2$=CH$_2$ + Br$_2$ → Br–CH$_2$–CH$_2$–Br
 
 
 
-
+i
 
 ### Szubsztitúció
 Olyan kémiai reakció, amelyben a molekulában **egy atom vagy atomcsoport helyére egy másik lép**, miközben a szénváz **nem változik meg**.  

@@ -1,0 +1,37 @@
+    
+### Izom
+- közepe -> _izomhas_
+- egy köteg -> _izomfej_
+- __alak szerint
+    - _orsó_ alakú -> végtagok
+    - _lapos_ -> törzs
+    - _köralakú zároizmok_ -> testnyílások
+#### Fontos izmok
+- __fej
+    - mimikai izmok
+    - _rágóziom_ -> nagyon erős
+- __törzs
+    - _fejbiccentő izom_ -> fejmozgatás
+    - _nagy mellizom_ 
+    - _delta izom_ -> váll szélessége
+    - _egyenes hasizom_ -> kockahas -> látszik az elválasztő kötőpólya
+    - _ferde hasizom_ -> oldal
+    - _csuklyás izom, trapéz izom_ -> felhát
+    - _széles hátizom_
+    - _rekeszizom_ -> légzés
+    - _gátizom_ -> végbél nyílás, külső nemi szervek
+- __végtagok izmai
+    - **Bicepsz** → *kétfejű karhajlító izom*
+    - **Tricepsz** → *Háromfejű hajlító izom*
+    - **Hajlítás** → az izmok távolodnak
+    - **Feszítés**: Az izmok közelednek
+- **Harántcsíkolt izom**
+	- Nyelvizom
+	- Nyelőcső felső szakasza: garat
+	- Légzőizmok:
+		- *Bordaközi izmok*
+		- *Rekeszizom*
+		- Többnyire akaratunktól függően működnek
+		- Gyorsan húzódnak össze, nagy erőkifejtésre képesek
+		- Fáradnak
+- **Vázizom**

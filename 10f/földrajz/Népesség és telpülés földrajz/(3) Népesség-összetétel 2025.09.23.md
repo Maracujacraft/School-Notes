@@ -11,12 +11,12 @@
 	- Hasonló létszámú korosztályok épülnek egymásra
 	 - Stabil korfa
 	 - Idősek aránya 10-15%
-	 - Magasabb születéskor várható időtartam
+	 - Magasabb születéskor várható élettartam
 3. **Urna**
-	- Idősek aránya eléri a fiatalkoét(15-20%)
+	- Idősek aránya eléri a fiatalokét(15-20%)
 	- Fogyó népesség
 	- Elöregedő társadalom
 	- problémák
-		- Egyrer kevesebben fizetnek adót
-		- Egészségünyi rendszer nagyon megterhelt
+		- Egyre kevesebben fizetnek adót
+		- Egészségügyi rendszer nagyon megterhelt
 		- Munkaerő hiány

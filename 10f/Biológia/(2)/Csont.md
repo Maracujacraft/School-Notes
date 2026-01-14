@@ -42,7 +42,7 @@
 		- Ízületi folyadék
 			- mozgás segítése
 			- súrlódás csökkentése
-	- ![[csontrajz|500]]
+	- ![[csontrajz|600]]
 ### Porcok típusai
 - Henger ízület
 	- egy tengely körüli elforgatás

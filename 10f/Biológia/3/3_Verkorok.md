@@ -1,0 +1,29 @@
+# **Vérkörök (3.)**
+## Vérkörök
+- ugyan úgy, mint minden másik emlősnél
+- kisvérkör
+	- jobb kamra $\textcolor{steelblue}{\xrightarrow{\text{\sf tüdő artéria}}}$ tüdő $\textcolor{tomato}{\xrightarrow{\text{\sf tüdő véna}}}$ bal pitvar
+- nagyvérkör
+	-  bal kamra $\textcolor{tomato}{\xrightarrow{\text{\sf főütőér/aorta}}}$ test $\textcolor{steelblue}{\xrightarrow{\text{\sf test véna}}}$ jobb pitvar![[szív.excalidraw|200]]
+- pulzus
+	- 1 perc alatt történő összehúzódások száma
+	- felnőtt ember nyugalmi pulzusa 72
+- pulzus térfogat
+	- 1 kamra összehúzódás által kipumpált vér
+	- átlag: 70ml
+- perctérfogat
+	- 1 perc alatti vérmennyiség, ami az aortába jut
+	- pulzus szám $\times$ térfogat
+- erek felépítése
+	- ~={orange} egyrétegű laphám=~
+	- ~={cyan}simaizomszövet=~
+	- ~={green}kötőszövet=~![[ér.excalidraw]]
+	- erekben vannak zsebes billentyűk
+- artériák rugalmassága teszi folyamatossá a vérkeringésünket
+- vérnyomás → a vér érfalra gyakorolt hidrosztatikai nyomása
+	- mértékegysége a Hgmm
+- vérnyomásmérő
+	- Szívösszehúzódáskori nyomás (szistolés érték) / Szívernyedési nyomás (diasztolás érték / dia)
+		- "75/50"
+- Alacsony vérnyomás csak akkor gond, ha az illetőnek baja van
+- Magas vérnyomás problémára utal

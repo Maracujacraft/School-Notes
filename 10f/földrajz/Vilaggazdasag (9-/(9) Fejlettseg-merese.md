@@ -1,0 +1,42 @@
+# Fejlettség mérése
+## Anyagiak szerint
+- **GDP**: Gross Domestic Product *(éves)*
+- **GNI**: Gross National Income *(éves)*
+    1. **Magas jövedelmű**
+    2. **Felső-közepes jövedelmű**
+    3. **Alsó-közepes jövedelmű**
+    4. **Alsó jövedelmű**
+- **PPP GDP**: Power Purchase Parity
+- **Valós mutató**: *mindegyik per fő*
+## Nem anyagiak szerint
+- **HDI**: Human Development Index
+    - Születéskor várható élettartam
+    - Írástudók aránya
+    - Iskolázottság
+- **GNEI**: Global New Economy Index
+    - Magasan képzett munkaerő
+    - Innovációk száma
+    - Információs gazdaság
+    - GDP-növekedés üteme
+    - Egészségügyi adatok
+    - 1000 főre jutó orvosok száma
+    - 1000 főre jutó kórházi ágyak száma
+    - Foglalkozási- és gazdasági szerkezet
+    - Gazdasági ágak GDP részesedése
+## Iparágak
+- **Primer** szektor
+    - Mezőgazdaság
+    - Bányászat
+- **Szekunder** szektor
+    - Nyersanyagok feldolgozása
+    - Termékek gyártása
+    - Ipar
+    - Rossz indikátor
+- **Tercier** szektor
+    - Szolgáltatások
+- **Kvaterner** szektor
+    - Tudásipar
+    - K+F tevékenységek *(kutatási- és fejlesztési tevékenységek)*
+        - Research & Development
+## GDP per capita
+![[GDP-per-capita.png]]

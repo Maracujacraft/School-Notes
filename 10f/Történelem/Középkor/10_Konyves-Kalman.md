@@ -1,0 +1,16 @@
+# Könyves Kálmán
+## Könyves Kálmán
+- Trónviszályok
+- **1095-1116**
+- Megszilárdítja a királyi hatalmat
+- Szent László munkáját folytatja
+- Magántulajdon védelme
+- Kóborlás tiltása
+- **Háramlási jog**: birtok tulajdonosa a király utódlásnál ha nincs örökös
+- Halics, Dalmácia meghódítása
+- Közállapot javulása
+- Enyhített László törvényein → pl. kétlábú helyett négylábú lopása → halál
+## Egyház szervezés
+- Püspökség alapítása
+- Egyházmegye alapítás
+- Kötelező cölibátus, kivéve ha van felesége

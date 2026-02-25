@@ -32,3 +32,27 @@
         - Legtöbbje királyi birtok
         - Magánbirtok
         - Egyházi birtokok
+
+### Egyházszervezet kiépítése
+- Független a császártól
+- Egyházmegyék (*párhuzamosan zajlik a vármegye kiépítésével*)
+- **Érsekségek (2)**
+	- Esztergomi
+	- Kalocsai
+- **Püspökségek (8)**
+- Káptalanokat alapít
+	- Püspökök munkáját segíti
+	- Tagjai a kanonok
+- **Szerzetesrendek**
+	- Bencések: *pannonhalmi bencés monostor*
+- Egyházat földdel támogatja
+- Kereszténység terjesztése
+	- *Erőszakos térítés, pogányság felszámolása*
+
+-  Az országot külső támadások érik
+- Pogánylázadások
+	- Ekkor halt meg Szent Gellért is
+- Trónviszály
+	- Dukátus
+		- Testvérének adott vármegyéket
+		- Korona vagy kard

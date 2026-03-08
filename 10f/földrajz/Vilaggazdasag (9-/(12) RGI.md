@@ -28,7 +28,9 @@
 - CEFTA
 -  GCC
 - APEC
-### Globalizáció
+## Globalizáció
 - **Eredete**: Amerika felfedezése: 1973-as olajrobbanás
 - **Olajárrobbanás**
 	- Olajtakarékos technológiával való doolgozás
+	- Alternatív energiahordozók
+### másonli

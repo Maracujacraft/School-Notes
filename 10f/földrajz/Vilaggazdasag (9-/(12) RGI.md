@@ -28,7 +28,14 @@
 - CEFTA
 -  GCC
 - APEC
-### Globalizáció
+## Globalizáció
 - **Eredete**: Amerika felfedezése: 1973-as olajrobbanás
 - **Olajárrobbanás**
 	- Olajtakarékos technológiával való doolgozás
+	- Alternatív energiahordozók
+### Globális világ jellemzői
+- Gyors technológiai fejlődés
+- Gyors információ áramlás
+- Könnyű munkaerő áramlás
+- **TNC**: nemzetközi nagyvállalatok *pl. coca-cola*
+- Kisvállalkozások elnyomódnak

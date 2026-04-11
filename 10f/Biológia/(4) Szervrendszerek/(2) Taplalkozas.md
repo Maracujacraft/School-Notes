@@ -78,4 +78,71 @@
 		- Szemfog: *Tépés*
 		- Kisőrlő: *Táplálék mechanikai őrlése*
 		- Nagyőrlő: *Táplálék mechnaikai őrlése*
-	- más: olni
+	- **Betegségei**:
+		- Fogínygyulladás
+		- Fogszuvasodás
+		- Fogkő
+		- Okai:
+			- Lepedék felhalmozódása
+			- Baktériumok elszaporodása
+#### Garat
+- **Nyelés folyamata**: Gégefedő felemelkedik/feltolódik, eltorlaszolva az utat a légcső felé
+- Nyálkahártya béleli
+- Perisztaltika (falat továbbjuttatása)
+#### Nyelőcső
+#### Gyomor
+- Tápanyag pépesítése
+- Fehérjék emésztésének megkezdése
+- feladat: fertőtlenít
+- Táplálék tárolása
+- **Gyomornedv**:
+	1. pepszin *= enzim*
+		- fehérjék → peptid = pár aminosav
+	2. Sósav $HCl -> pH = 1~2$
+		- Aktiválja a pepszint
+		- (pepszinogén $\xrightarrow{HCL}{pepszin}$)
+		- Fertőtlenít
+	3. Nyálka
+		- Gyomorfal védelme az önemésztéstől
+
+### Középbél = *vékonybél*
+- Feladat:
+	- Emésztés
+	- Felszívás
+- Részei: 
+	1. Patkóbél
+		- Hasnyálmirigy → hasnyálmirigy kivehető
+		- máj → epehólyag →(epe) epe **?**
+			- Hasnyál
+				- amiláz => nem édes keményítő → maltóz/édes deszacharid
+				- tripszin => fehérje → peptid
+				- lipáz => zsír → glicerin + zsírsav
+				- nukláz => nukleinsav → nukleotid
+			- Epe
+				- pH ~ 8
+				- Epesavas sók = kettős oldódású
+				- emulgeálás 
+	2. Éhbél
+	3. Csípőbél
+### Utóbél
+- **Bél mikróbiom**
+    - Növényi rostok, szerves anyagok lebontása
+    - B12-, K-vitamin termelés
+    - Életminőség befolyásolása
+#### Vakbél + féregnyúlvány
+#### Vastagbél
+#### Végbél + végbélnyílás
+## Jóllakottság
+- **Éhség központ**
+    1. Vércukorszint csökken
+    2. Gyomor üresség -> gherin
+- **Jóllakottság központ**
+    1. Vércukorcint magas
+    2. Leptin
+### Glikémiásindex
+- Élelmiszer milyen magasan növeli meg a vércukor szintet
+### Testtömegindex
+- **Sovány**: <20
+- **Egészséges**: 20-25
+- **Túlsúly**: >25
+- **Kóros elhízás**: >35

@@ -26,4 +26,4 @@
 - Gazdaság növelése
 ### Hátrány
 - Kiszorítják a kisebb helyi cégeket
-
+- A termelési folyamat fázisait oda telepíti

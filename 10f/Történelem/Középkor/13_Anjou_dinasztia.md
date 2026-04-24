@@ -18,3 +18,25 @@
 	- 1321: Csák Máté halála
 - **Zách Felicián**
 	- merénylet a király ellen
+### Gazdaságpolitika
+- **Cél**: Királyi bevételek növelése, stabilizálása
+- **Honorbirtokok rendszere** →  Hivatal/Méltóságviseléshez köti 
+	- Nem örökíthető
+	- A birtok jövedelmeinek egy része a hivatal birtokosát illeti
+	- → Hűséges bárói réteg
+- **Regálé jövedelmek arányának növelése**: **PÉNZBEN**
+	- Adók, vámok, monopóliumok, bányajövedelmek, pénzverés
+- **Bányásztak**: $Au, Ag, Cu, NaCl$ (kősó)
+- **Bányabér** (Regálé): *Urbura*
+	- Bányapolgár fizeti a királynak (bányapolgár: bányász, bányavállakozó)
+	- A birtok tulajdonos: $\frac{1}{10}$ (Au), $\frac{1}{8}$ (Ag) kap
+	- Fejlesztés: 
+		- A birtok a tulajdonosé marad
+		- Urbura $\frac{1}{3}$-a a tulajé 
+- Érc feldolgozása királyi monopólium
+	- **Királyi kamara**:
+		- Érc feldolgozása => pénzverés
+		- Tulaj, vert pénzt kap vissza
+	- **Arany példa**:
+		- 10% urbura → 2/3 király | 1/3 tulajdonos
+		- 90% királyi kamara → 1/2 bányász

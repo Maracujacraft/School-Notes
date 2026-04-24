@@ -146,3 +146,33 @@
 - **Egészséges**: 20-25
 - **Túlsúly**: >25
 - **Kóros elhízás**: >35
+## Vitaminok
+### Angolkór
+- *D-vitamin hiány*
+- Kevés Ca kerül a csontokba
+- A csontok felpuhulnak
+- A csontok elgörbülhetnek
+- Bél → Vér → Csontok
+### E-vitamin
+- Könnyen oxidálódik, közben antioxidáns hatás 
+- megakadályozza pl. a többszörösen telítetlen zsírsavak oxidációját
+- Védi a sejteket a káros szabadgyökökkel szemben (*párosítatlan elektronnal rendelkező, igen reakcióképes részecskék)
+- **Hiánya esetén**: nemi működési zavarok, magzatfejlődési problémák
+### K-vitamin
+- **Normális véralvadáshoz kell**
+- Jelenlétében a máj véralvadási faktorokat szintetizál (pl. protombin)
+- **Hiánya esetén**: vérzékenység, véralvadási zavarok
+- Vastagbél flórájában lévő baktériumok termelik
+	- Hosszantartó bélgyulladással járó betegség következményeként K-vitamin hiány lehet
+### A-vitamin
+- Májban karotinból keletkezik, és raktározódik később
+- **Zsírban oldódó vitamin**
+- Normális látás fenntartásában nélkülözhetetlen
+- Fontos a hámfelületek védelmében → véd a hámon keresztül történő fertőzésektől
+- **Hiánya**
+	- Szürkületi vakságot (*farkasvakságot*), sőt teljes vakságot okozhat, mivel előanyaga a látáshoz szükséges fényérzékeny vegyületnek a retinának
+	- Hámszövetek, bőrmirigyek sorvadása
+	- Bőr kiszáradása
+	- Szőrzet és hajszálak törékenysége, kihullása
+
+- Az élelmiszerek csomagolásán *kötelezően* feltüntetik a termék összetevőinek listáját

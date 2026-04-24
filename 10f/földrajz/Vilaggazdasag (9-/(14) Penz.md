@@ -5,7 +5,49 @@
 	- Befektetési eszköz
 ## Pénz formái
 - Árupénz *árut árura*
-- Fémpénz *köztes eszköz* *RÉGI*
-- Papírpénz (bankjegy), érme *készpénz* → könnyen lehet gyártani
+- Készpénz
+	- Fémpénz *köztes eszköz* *RÉGI*
+	- Papírpénz (bankjegy), érme *készpénz* → könnyen lehet gyártani
 - Bankszámlapénz
-- 
+	- Előny: Praktikusabb
+		- Átváltás
+		- Fizetés
+		- Kezelhetőség
+	-  Hátrány:
+		- Banki rendszeri problémák
+		- Könnyebb pénzköltés
+	- Fajtái:
+		- Hitelkártya
+		- Bankkártya
+		- Betéti kártya
+	- Kibocsátók
+		- Mastercard
+		- Visa
+		- Maestro
+		- American express
+## Infláció 
+- *Növekedés*
+- **Árak általános és tartós emelkedése**
+- **Okai**:
+	- Háború utáni inflációsokk
+	- Nyersanyagköltségek növekedése
+	- Deficit finanszírozás
+		- Álllam saját hiányát finanszírozza
+- Százalékban mérik
+## Pénznemek  // innentől kicsit hiányos
+- **Valuta**: másik ország pénzem, fizikális
+	- Árfolyam: valuták egymáshoz viszonyított értéke
+- **Deviza**: másik ország pénze, nem fizikális
+- Pénzváltás bankokban/pénzváltókban lehetséges
+- **Konvertibilis valuta**: Szabadon átváltható másik valutába
+	- Ha egy valuta nem, helyben valószínúleg váltanak dollárt, eurót
+- **Értékpapír**: okirat 
+	- a kiváltótól lehet pémzbeli követelést
+- Kötvény
+	- Névérték
+	- Kamat
+	- Lejárat
+- Részvény
+	- Árfolyam
+	- Nincs kamat
+	- Nincs lejárat

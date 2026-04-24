@@ -3,10 +3,10 @@
 - Nem C és H atom
 - pl.: O, N, halogén atomok
 - Funkciós csoport
-- **Oxigén tartalmű vegyületek**
+- **Oxigén tartalmú vegyületek**
 	1. Alkoh<u><b>ol</b></u>
 		- Funkciós csoport: -OH / hidrox<u><b>il</b></u>
-			- $CH_3-CH_2-OH$   *etanol* / *etil-alkohol*
+			- $CH_3-CH_2-OH$   *etanol* / *etil-alkohol*hidroxil
 		- Telített C-atomhoz kapcsolódó - OH csoport
 			- $CH_2=CH-OH$
 			- $CH_3-CH=CH-OH$
@@ -52,3 +52,4 @@
 	- **Ismertebb alkoholok**
 		1. Metanol / metil-alkohol (faszesz) $CH_3 - OH$
 		2. Etanol / etil-alkohol
+		   

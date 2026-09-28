@@ -1,0 +1,2 @@
+- félévente 2 passz: 
+	- /2

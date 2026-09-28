@@ -1,5 +1,5 @@
 # Anjou dinasztia (13)
-## Károly Róbert (1308-1342)
+## Károly Róbert (**1308-1342**)
 - **Interregnum**: Két király uralkodása közötti időszak, polgárháború, 1301-1308
 - Bárók hatalma megnő, mivel nincs erős hatalom
 	- Háborút indíthattak
@@ -21,6 +21,7 @@
 ### Gazdaságpolitika
 - **Cél**: Királyi bevételek növelése, stabilizálása
 - **Honorbirtokok rendszere** →  Hivatal/Méltóságviseléshez köti 
+	- Regálé jövedelem
 	- Nem örökíthető
 	- A birtok jövedelmeinek egy része a hivatal birtokosát illeti
 	- → Hűséges bárói réteg
@@ -28,7 +29,7 @@
 	- Adók, vámok, monopóliumok, bányajövedelmek, pénzverés
 - **Bányásztak**: $Au, Ag, Cu, NaCl$ (kősó)
 - **Bányabér** (Regálé): *Urbura*
-	- Bányapolgár fizeti a királynak (bányapolgár: bányász, bányavállakozó)
+	- Bányapolgár fizeti a királynak (bányapolgár: bányász, bányavállalkozó)
 	- A birtok tulajdonos: $\frac{1}{10}$ (Au), $\frac{1}{8}$ (Ag) kap
 	- Fejlesztés: 
 		- A birtok a tulajdonosé marad
@@ -40,3 +41,76 @@
 	- **Arany példa**:
 		- 10% urbura → 2/3 király | 1/3 tulajdonos
 		- 90% királyi kamara → 1/2 bányász
+	- **Zászlós urak**: leghatalmasabb bárók *nádor, tárnokmester, horvát bán, erdélyi vajda*
+	- **Bányavárosok**
+	- **Értékálló aranyforint**: Kamara hasznáról + pénzrontásról lemond
+	- **Kapuadó**: minden telekre
+	- **Külkereskedelmi vám**: harmincadvám, pénzben
+	- **Kilenced**: Jobbágy a földesúrnak, 9. 10-ed
+- Honor birtok→Regálé
+	- Urbura
+		- felhagy pénzrontással → kapuadó
+		- Forint
+	- Harmincadvám
+	- Megélénkül a pénzforgalom
+		- Árutermelés
+		- Kereskedelem
+### Külpolitika
+- **1335**- Visegrádi királytalálkozó
+	- *V4 országok*:
+		- Tagjai
+			- Lengyelország
+			- Szlovákia
+			- Csehország
+			- Magyarország
+		- Szövetkezet; célja: Lengyel és cseh király közötti viszály enyhítése
+		- Bécset elkerülő kereskedelmi útvonal
+- (*Lokietek*) Erzsébet: Károly róbet felesége, lengyel királyi családból :LiBeanOff:
+- Dalmácia elvesztése háborúban
+- **Házassági politika**
+	- Lajos lengyel trón (personálunió)
+	- Nápoly → András (Endre), Johanna házassága
+## Nagy Lajos (**1342-1382**)
+- **Lányai**: Mária, *magyar trón*, Hedvig *lengyel trón*
+- **Luxemburgi Zsigmond:** Mária férje
+- **Bárói ligák**: trónjelölteket hívtak az országba
+## Luxemburgi Zsigmond (**1387-1437**)
+- Magyar :LiCrown:, német (római) :LiCrown:, cseh :LiCrown: 
+- Német-római császár (1433-1437)
+### Városfejlődés
+- Egyházi székhely:
+	- Érsek (Esztergom, Kalocsa)
+	- Püspök
+- Szabad királyi városok:
+	- 1 összegben adózás
+	- Önkormányzat
+	- Városfal építés
+	- Plébánosválasztás
+	- Vásártartásjog
+	- Árumegállító jog (Bécs)
+	- Országgyűlés: Követküldés
+- Bányavárosok:
+	- Egy összegű adózás
+	- urbura
+	- Támogatott kategória
+- Mezővárosok (=*OPPIDUM*)
+	- Lakói jog szerint jobbágyok (*földesúri joghatóság alatt*)
+		- Úriszék, pallosjog
+	- Vásártartás
+- Uralkodók támogatják a városokat támogatásért és bevételért
+- Idegen eredetű polgárság
+- Megkésett városi fejlődés
+- A korszakban létrejön a jogilag egységes nemesség, illetve jobbágyság
+- **Nemesség**:
+	- vagyonilag különböző, jogilag egységes:
+		- Bárók
+		- Köznemesség
+- 1222 aranybulla, megújításai, 
+- **Ősiség törvénye** (***1351***)
+	- megtiltja a szabad végrendelkezést
+	- Cél: köznemesség erősítése
+- **Egy és ugyanazon nemesség elve** (***1351***)
+	- Nemesség egységesülés
+- **Kilenced** (***1351**)
+	- Első egységes adó
+	- jobbágy → földesúr

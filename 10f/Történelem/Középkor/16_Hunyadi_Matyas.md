@@ -1,0 +1,13 @@
+# Hunyadi Mátyás (**1458-1490**) (16.)
+- **Felesége**: Katalin *Podjebrád György lánya*
+- Pápa támogatja Mátyást az apja miatt
+- **Polgárháború**: Hunyadi-Szilágyi vs Garai
+	- **Tárgyalás**: Garai nádor lesz, Szilágyi kormányzó (*alku Mátyással*)
+	- Mátyásnak el kell vennie Garai Annát *nem tette*
+- Mátyást megkoronázzák a Duna jegén, de nem Szent Koronával → nem érvényes
+- **III. Frigyes**
+	- Német-római-császár, Habsburg
+	- nála van a korona
+	- **1462**: Bécsújhelyi egyezmény *visszavásárolja a koronát*
+		- Ha Mátyásnak nincs fia, Frigyesre száll a trón -> nem történik meg
+- **1464**: Mátyás koronázása-mj

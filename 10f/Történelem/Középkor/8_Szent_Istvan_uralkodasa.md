@@ -1,4 +1,4 @@
-## **Szent István uralkodása** (8)
+## **Szent István uralkodása** (8) (997-1038)
 - **Fejedelem**
 - **997**: Géza halála után István (997-1000) lett a fejedelem (*primogenitúra*)
 - **Koppány**:

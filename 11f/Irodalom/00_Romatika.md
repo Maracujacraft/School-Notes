@@ -51,4 +51,47 @@
 - **1848-49**: Nemzetőr, kegyelmi szék bírája, bujdosás, kegyelem
 - **1850-es évek**: Baracska, Nyék: gazdálkodik, egészsége megrendült már, 
 - **1855**-ben Pesten hal meg (ahol KK)
-### Vörösmarty Mi
+### Csongor és Tünde (1830)
+- boldogságkeresés, a harmónia, teljesség, megélésének vágya
+	- Közösségi szinten: eleve lemond róla V.M.? → 3. vándor?
+	- Egyéni szinten: 
+		- Kudarc:
+			- Pénz
+			- Tudás
+			- Hatalom
+		- Részleges siker? -  szerelem?
+- **Fizikai korlátok**, de magasabb rendű tudati lét → kompromisszum?
+## Drámai költemény 
+- (= romantikus **világ**dráma)
+- emberiség
+	- drámai
+	- költemény
+- A klasszikus tragédiával rokon műfaj, de a drámaisággal egyenirányúvá válik a költőiség, a cselekményességgel pedig a gondolatiság
+- **Könyvdráma**: Eredetileg nem előadásra, hanem olvasásra szánt mű, amely az élet alapvető filozófia kérdéseit tárgyalja:
+	- Mi az élet értelme? Van-e egyáltalán?
+	- Miben rejlik a boldogság, elérhető-e?
+	- Mi adhat célt?
+	- Van-e szabad akarat? 
+- Byron: Manfred (1816)
+- Goethe: Faust I-II. (1808, 1832)
+- Vörösmarty Mihály: Csongor és Tünde (1830)
+- Madách Imre: Az ember tragédiája (1859-1860)
+- **Epikus vonás**: A drámai cselekmény egy mitológia (*mesei*) történet újraírása
+	- A mű a mítoszok elbeszélésrendjét követi
+- A drámai költemény szereplői allegorikus figurák, egy-egy eszme képviselői, megtestesítői
+- Kevert műfaj (*Romantika*)
+- Nem hús-vér drámai karakterek
+- Gazdag szókincs 
+## Rapszódia
+- Óda rokon műfaja
+- Érzelmi zaklatottság
+- Hangnemi változatosság (Pátosz, irónia, cinizmus, elégikus) jellemzi
+	- Szabálytalan, töredezett forma
+	- Pl. V.M.: Gondolatok a könyvtárban
+### A vén cigány
+## Petőfi Sándor (1823-1849)
+- Forradalom → szabadságharc
+- Szendrey Júlia
+- Arany János
+- Felhők
+- V. M.

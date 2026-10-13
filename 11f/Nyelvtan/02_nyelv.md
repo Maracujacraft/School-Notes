@@ -33,3 +33,11 @@
 	- Kapcsolattartó (*kiegészítő*)
 	- Gyönyörködtető (*kiegészítő*)
 	- Értelmező (*kiegészítő*)
+### Nonverbális kommunikáció
+- **Kommunikáció**: Információátadás, és -cserekereskedelem
+- 2/3-a a kommunikációnak
+- Kisegíti, árnyalja a nyelvi szöveget
+- Eszköztára:
+	- Mimika, gesztikuláció, testtartás, térközszabályozás, szemkontaktus
+	- Kinézet (Öltözék, hajviselet, stb)
+	- **Zenei eszközök**: Hangerő, hangsúly, hangfejtés, beszédtempó, beszédszünet

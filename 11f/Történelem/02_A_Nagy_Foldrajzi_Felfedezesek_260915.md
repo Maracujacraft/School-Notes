@@ -123,7 +123,7 @@
 	- Hadsereg
 - 17. század közepére Franciaország lesz a kontinens vezető hatalma *XIV. Lajos /Napkirály/*
 - 30 éves háború *17. század világháborúja*: 1618-1648
-	- Nagyhatalmi konfliktusok + vallásháború → **Vége**: verstfábiai béke
+	- Nagyhatalmi konfliktusok + vallásháború → **Vége**: vesztfáliai béke
 	- Tagjai: Franciaország, Habsburgok
 	- Habsburgok harcolnak protestánsokkal, franciákkal (együtt)
 - **Habsburg-dinasztia**:

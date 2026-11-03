@@ -12,7 +12,7 @@
 	- Kereskedelmi monopólium *(Velence, Genova)*
 	- Luxuscikkek *(arany, ezüst fizetségül)*
 - **Hanza** *(Lübeck, Rostock, Hamburg)*
-- **Champagne**: selyemutat és hanzát összekötő vonal
+- **Champagne**: selyemutat és hanzát összekötő út
 - Kialakul aranyéhség *(kimerültek a magyar és cseh bányák)*
 - Oszmán birodalom terjeszked Kis-Ázsiában
 - Létrejön a spanyol királyság és Portugália

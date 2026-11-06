@@ -7,8 +7,12 @@
 - **1505**: rákosi végzés: *Jagelló Ulászló után csak magyar lehet a trónon*
 - **1515**: Házassági szerződés: *Habsburg x Jagelló*
 ### Oszmán Birodalom megerősödése
-- I. Szulejmán szultán (*1520-1566* alatt a fénykorát élte a birodalom)
+- I. Szulejmán szultán (*1520-1566* alatt élte fénykorát a birodalom)
+- Erős központi hatalom
 - Vörös-tenger, Egyiptom meghódítása → perzsákkal harc → kijutnak az Indiai-óceánra
+- Jelentős bevételek (*kb. 9,5 millió arany*)
+- Erős és modern hadsereg
+- **Terjeszkedő birodalom**: Szulejmán apja, ***I. Szelim*** hatalmas területeket hódit meg Közel-Keleten → Megszerzi a kalifa címet
 - **Katonabirodalom**: 
 	- Cél: 
 		- Hódítás → Szultán dönt, hogy Európa, vagy Ázsia felé
@@ -18,10 +22,6 @@
 			- Levantei kereskedelem megadóztatása
 		- Szulejmán szultán Európa mellett dönt
 		- Balkán-félsziget török fennhatóság alatt
-- Erős központi hatalom
-- Jelentős bevételek (*kb. 9,5 millió arany*)
-- Erős és modern hadsereg
-- **Terjeszkedő birodalom**: Szulejmán apja, ***I. Szelim*** hatalmas területeket hódit meg Közel-Keleten → Megszerzi a kalifa címet
 ### Királyi hatalom meggyengülése
 - Hunyadi Mátyás meghal: **1490**
 - Corvin János nem lesz uralkodó → *motiválatlan, nem támogatják*
@@ -45,4 +45,17 @@
 - Fiatal, befolyásolható
 - Aktív külpolitika
 - Úgy gondolja, szövetségekben bővelkedik
-- Mohácsi csata *1526*
+- Mohácsi csata ***1526***
+- Nándorfehérvár ***1521***
+	- Török támadás, elesik Nándorfehérvár
+- Reformokkal kísérletezett
+	- Rendek ellenállásán megbukott → korlátozzák hatalmát
+- **1526**: kb 60,000 fős török fősereg
+- Magyar hadsereg: kb. 25,000 fő
+	- Nemesi bandériumok
+	- Külföldi zsoldosok (csehek) - pápa
+	- Parasztok
+	- **Tomori Pál** kalocsai érsek irányította a védekezést → kisebb sikerek
+	- + Szapolyai erdélyi vajda (kb. 15,000 fő)
+### Mohácsi csata
+- **1526. augusztus 29.**

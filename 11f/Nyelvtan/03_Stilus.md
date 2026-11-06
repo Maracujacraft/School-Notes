@@ -14,3 +14,8 @@
 - A szöveg felépítésének, szerkezetének érzékeltetése
 - A mondanivaló (tartalom) alátámasztása, értelmezése
 - Az előszó zenei eszközeinek pótlása
+## ?? Művészi kommunikáció
+- vizuális elrendezés (íráskép (vers-próza), írásjelek)
+- Zeneiség (rím, ritmus)
+- Képszerűség (szóképek)
+- Alakzatok

@@ -1,5 +1,5 @@
 # Nagy Földrajzi Felfedezések
-## Előzmények
+## Előzmények - ￼￼Munkaerő￼￼: Népességnövekedés, bérlők alkalmazása
 - **Koraújkor:** *1492, Amerika felfedezése*
 - 16. század elején ~80 millió fő
 - **1500**: A népesség gyors növekedésnek indul
@@ -84,14 +84,14 @@
 		- Földbirtokos: **gentry**
 		- **Flandria**i ipari területek fejlettek (textilipar)
 
-|                   | **CÉH**                                                   | **MANIFAKTÚRA**                                                     |
-| ----------------- | --------------------------------------------------------- | ------------------------------------------------------------------- |
-| **Ki?**           | Céhmester - <br>tulajdonos + dolgozó!<br>(*legény, inas*) | Bérmunkások - részmunkafolyamatok<br>*képzetlenek, alacson fizetés* |
-| **Munkafolyamat** | Egész munkát egy<br>ember végzi                           | Minden munkafolyamatot más végez                                    |
-| **Munkaerő**      | Képzett                                                   | Képzetlen                                                           |
-| **Termék**        | Egyedi                                                    | Tömegtermék                                                         |
-| **Minőség**       | Magas                                                     | Közepes                                                             |
-| **Ár**            | Drága                                                     | Olcsó                                                               |
+|                   | **CÉH**                                                   | **MANUFAKTÚRA**                                                      |
+| ----------------- | --------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Ki?**           | Céhmester - <br>tulajdonos + dolgozó!<br>(*legény, inas*) | Bérmunkások - részmunkafolyamatok<br>*képzetlenek, alacsony fizetés* |
+| **Munkafolyamat** | Egész munkát egy<br>ember végzi                           | Minden munkafolyamatot más végez                                     |
+| **Munkaerő**      | Képzett                                                   | Képzetlen                                                            |
+| **Termék**        | Egyedi                                                    | Tömegtermék                                                          |
+| **Minőség**       | Magas                                                     | Közepes                                                              |
+| **Ár**            | Drága                                                     | Olcsó                                                                |
 
 - **Munkamegosztás**: *cserekereskedelem*
 	- Kelet: agrártermelés

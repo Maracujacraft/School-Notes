@@ -59,3 +59,42 @@
 	- + Szapolyai erdélyi vajda (kb. 15,000 fő)
 ### Mohácsi csata
 - **1526. augusztus 29.**
+- Törököknek jelentősen több ágyújuk volt
+- Magyarok támadtak először
+	- Törökök tűzereje visszaveri őket → felmorzsolódnak
+- II. Lajos Csele-patakba fullad menekülés közben → nem lesz aki a védelmet megszervezi
+- A magyar hadsereg megsemmisült
+### Lehetséges uralkodók
+- II. Lajos halála után két trónjelölt
+- Jagellók: nem szólnak bele
+- Habsburg Ferdinánd testvére a német-római császár: V. Károly
+- Szapolyai János (1505)
+- Kettős királyválasztás (1526 végén)
+	- Habsburg Ferdinánd ( Habsburg-Jagelló keresztházasság 1515)
+	- Szapolyai János (1506 Rákosi végzés)
+- Actio Radius elmélet: Tél kezdetével hazamennek
+	- Elmélet értelmezése (állomások): 
+		1. Szulejmánnak az is lehetett a célja, hogy csak meggyengítse az országot
+		2. Létrehoz egy vazallus államot
+		3. Bekebelezi, és a birodalom részévé teszi
+### Az ország két részre szakadása
+- 1526 Mohács
+- Bécs sikertelen ostroma:
+	- 1529
+	- 1532 Kőszeg: Jurisics Miklós
+- Magyar Királyság: ütközőállama → felvonulási terület
+- 1529 Buda → Szapolyai
+## cant follow the chronological order of ts anymore
+- Habsburg és oszmán birodalom között erőegyensúly jön létre
+- **1538: váradi béke**
+	- Szapolyai János - I. Ferdinánd
+	- Titkos záradék: Szapolyai halála után Ferdinándé lesz a keleti országrész akkor is ha Szapolyainak születik gyermeke
+	- Cserébe Ferdinánd elismeri Szapolyai királyságát. Szapolyai által birtokolt terület Szapolyaié
+- **János Zsigmond**
+	- **1540** Szapolyai János fia: **János Zsigmond**
+		- Megkoronázzák Budán
+		- Ferdinánd
+		- Török Bálint (Egri csillagok)
+		- Fráter György (gyámja)
+	- **1540** Meghal Szapolyai 
+	- **1541**: Buda elfoglalása (vér nélkül)

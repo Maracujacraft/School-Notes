@@ -33,4 +33,23 @@
 - **1846/1847 – 1849**
 - Prófétaköltői szerep
 	- *Batsányi János által*
-- Pályaszaksz 1+ pályaszaksz 2 = pályaszakasz 3
+- Pályaszakasz 1+ pályaszakasz 2 = pályaszakasz 3
+- Felhők → “Felleges bánatos lelkemnek” → haragos
+- Sors, nyiss nekem tért…
+    - Egy gondolat bánt engemet… (1846 december)
+    - Szabadság, szerelem (1847. január 1.)
+    - A XIX század költői (1847. január) → ars poetica
+        - Polemizáló vers
+        - Kizárólagos szerepfelvetés
+- Élet → szerelem → szabadság
+- Egyén → közösség = nemzeti nép → emberiség
+
+Első + Második = prófétaköltői szerep
+
+> **A XIX. század költői** egy rendkívül harcias, vitázó kiáltvány (ars poetica), amely elutasítja az öncélú szórakoztatást és a magánéleti panaszáradatot.
+
+**Fő állításai:**
+> - **A költő próféta:** Isten által kiválasztott vezér, akinek az a kötelessége, hogy a népet elvezesse a „Kánaánba” (a szabadságba).
+> - **A költészet felelősség:** Nem játék, hanem egy lángoszlop, amely utat mutat a sötétségben.
+> - **A cél a tökéletes társadalom:** Amíg nincs anyagi jólét (_bőség kosara_), jogegyenlőség (_jog asztala_) és műveltség (_szellem napvilága_), addig tilos abbahagyni a harcot.
+> - **A jutalom az utókoré:** A költő nem földi dicsőséget kap, hanem a hálás utókor tiszteletét a halála után.

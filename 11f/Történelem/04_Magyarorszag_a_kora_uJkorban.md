@@ -79,12 +79,13 @@
 		3. Bekebelezi, és a birodalom részévé teszi
 ### Az ország két részre szakadása
 - 1526 Mohács
+- 1526 Buda elfoglalása, két részre szakad az ország (kettős királyválasztás)
 - Bécs sikertelen ostroma:
 	- 1529
 	- 1532 Kőszeg: Jurisics Miklós
 - Magyar Királyság: ütközőállama → felvonulási terület
-- 1529 Buda → Szapolyai
-## cant follow the chronological order of ts anymore
+- 1529 Buda elfoglása → Szapolyai
+## lost chronological order
 - Habsburg és oszmán birodalom között erőegyensúly jön létre
 - **1538: váradi béke**
 	- Szapolyai János - I. Ferdinánd
@@ -97,4 +98,64 @@
 		- Török Bálint (Egri csillagok)
 		- Fráter György (gyámja)
 	- **1540** Meghal Szapolyai 
-	- **1541**: Buda elfoglalása (vér nélkül)
+	- **1541**: Buda elfoglalása vér nélkül
+		- 3 részre szakad az ország → saját közigazgatást alakítanak ki
+			- 3 országrész: 150 évre
+				- **A**, Hódoltság (középső)
+					- **Vilajet** (Közigazgatási egység)
+						- Szandzsák (Tisztségileg kisebb)
+				- **B**, Királyi Magyarország
+					- Fiume, Adriai-tenger
+				- **C**, Erdélyi Fejedelemség (keleti, Partium[^1])
+[^1]: **Partium**: Magyarországi vármegyék, amelyeket néha az erdélyi fejedelmek birtokolnak
+## Várháborúk kora *1541-1568*
+- Az ország **felvonulási terület**
+- Cél: Bécs elfoglalása
+- **Fráter György**: Jagelló Zsigmond gyámja, kincstartó
+	- **Fejedelmi székhely**: Erdély (Gyulafehérvár)
+	- **1551**:Ferdinánd Zsoldosokat küld Erdélybe
+	- **Hintapolitika**:
+		- Két hatalom közti egyensúlyozás
+- **Casteldo**: Zsoldosok vezetője
+- **1551**: Zsoldosok megölik Frátert
+- **1552**: Szulejmán büntetőhadjárata Erdély ellen
+	- **Cél**: Erdély és Királyi Magyarország egyesítésének megakadályozása
+- **1565**: János Zsigmond és Ferdinánd egyezsége
+	- János Zsigmond lemond a koronáról
+	- Ferdinánd elismeri, hogy övé Erdély
+- **1566**: Szigetvár *(Zrínyi Miklós)*
+- **1568**: Drinápolyi béke *Békét köt a két birodalom* (Szelim + Miksa)
+	- **Status quo**: Fennálló erőviszonyok alapján kötik 
+		- Akié egy terület megtartja, Miksa adót fizet
+## Három országrész berendezkedése
+### Királyi Magyarország
+- Habsburg Birodalom keleti határa (***része***)
+- Ütközési zóna (*Habsburgok <-> oszmánok*)
+- #### Végvár rendszer
+	- Adriai-tengertől Erdélyig (*Kelet*)
+	- **Cél**: Bécs védelme
+	- Új társadalmi réteg: **Vitézlő rend**
+		- ***Végvári katonák***
+		- Zsoldoskatonák
+- Országrész központja Pozsony
+- Király nincs személyesen jelen az országban
+	- **Királyi udvar**: ***Bécs***
+	- Helytartóság képviseli
+	- ***Királyi tanács*** helyett ***magyar tanács*** kormányoz
+	- Király a rendekkel együtt kormányoz
+		- Ezt **Rendi dualizmus**nak hívjuk
+		- Király abszolutizmust akar kiépíteni
+			- Nem tud rendek nélkül kormányozni, nem sikerül
+	- Középszintű igazgatás = rendi igazgatás
+	- Főkapitányságok jönnek létre (*5db*):
+		- Legfontosabb: Udvari Haditanács
+	- Rendi gyűlés kétkamarás
+		- **Felsőtábla**: Főpapok, főrendek (személyesen)
+		- **Alsótábla**: Megyei követek, városok követei
+- A Habsburg Birodalom egy soknemzetiségű állam
+## Török Hódoltság
+- Középkori Magyarország ~40%-a
+- Hadszíntér
+- Oszmán közigazgatás: Vilajetek
+	- Buda lesz az ország központja
+- **Ráják**: adózók or sths

@@ -53,3 +53,17 @@ Első + Második = prófétaköltői szerep
 > - **A költészet felelősség:** Nem játék, hanem egy lángoszlop, amely utat mutat a sötétségben.
 > - **A cél a tökéletes társadalom:** Amíg nincs anyagi jólét (_bőség kosara_), jogegyenlőség (_jog asztala_) és műveltség (_szellem napvilága_), addig tilos abbahagyni a harcot.
 > - **A jutalom az utókoré:** A költő nem földi dicsőséget kap, hanem a hálás utókor tiszteletét a halála után.
+
+
+- **1846 tavasz - 1846. december**
+	- szerepvágy  - szerepbe helyezkedés folyamata
+- **1847.  jan. 1. - mottó**
+	- január - ars poetica → már a szereből szólal meg
+- **1848. márc 15.** - a szerep gyakorlati megvalósulása
+- **1848. június-szept** :LiCircleOff:
+- **1849. július** - halál
+- **A nép nevében (1847. 03.)**
+- Világosságot (1847. 03.)
+- Az ítélet (1846. 04.)
+- Beszél a fákkal a bús őszi szél… (1847. 09.)
+- Pacsirtaszót hallok megint (1849. 03.)

@@ -153,9 +153,43 @@
 		- **Felsőtábla**: Főpapok, főrendek (személyesen)
 		- **Alsótábla**: Megyei követek, városok követei
 - A Habsburg Birodalom egy soknemzetiségű állam
-## Török Hódoltság
+### Török Hódoltság
 - Középkori Magyarország ~40%-a
 - Hadszíntér
 - Oszmán közigazgatás: Vilajetek
 	- Buda lesz az ország központja
-- **Ráják**: adózók or sths
+- **Ráják**: adózók
+	- *Szpáhik*
+	- Kettős adóztatás → Magyar földesúrnak, Török földesúrnak 
+	- Haradzs → harácsol
+- **Dzsámi** (*Pécs*)
+- **Minaret** (*Eger*)
+- Gülbaba türbéje
+### Erdélyi fejedelemség // rewrite!
+- **Speyeri szerződés** (***1570***)
+	- János Zsigmond
+	- I. Miksa
+- **Partium** (*Részek*): Vármegyék
+	- Élet hosszig tulajdonolják
+	- **Vazallus** (*Hűbéres*) 
+		- **Nincs önálló külpolitikája** → ***Szultán dönti el, hogy harcolhat-e/megvédheti-e önmagát***
+		- Évi adó
+		- Fejedelem megválasztása Szultáni engedéllyel (**Athname**)
+			- Rendi országgyűlés választja *Szultáni hozzájárulással*
+## Rendi országgyűlés
+- **3 rendi nemzet**
+	- Politikai jogokkal rendelkeznek
+	1. **Magyar** Vármegyék
+		- Református **1750**
+	2. **Székely** Szék
+		- Római katolikus
+	3. **Szász** Szék
+		- Evangélikus → Speyeri szerződés
+- + románok: földművelés, pásztorkodás
+	- Görögkatolikus (görögkeleti)
+- Erdélyi fejedelem hatalma erős
+	- Az országgyűlés nem tudja korlátozni a hatalmát
+	- Okok: ellentétek
+		- Vallás
+		- Vagyon
+		- Etnikum
